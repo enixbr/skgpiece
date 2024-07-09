@@ -1,0 +1,550 @@
+{
+    "episodes": {
+        "1069": {
+            "rating": 7.3,
+            "votes": 18,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1070": {
+            "rating": 6.8,
+            "votes": 32,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1071": {
+            "rating": 9.3,
+            "votes": 49,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [
+                "super production"
+            ],
+            "length": "",
+            "posts": 0
+        },
+        "1072": {
+            "rating": 9.4,
+            "votes": 33,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [
+                "super production"
+            ],
+            "length": "",
+            "posts": 0
+        },
+        "1073": {
+            "rating": 4.3,
+            "votes": 27,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1074": {
+            "rating": 9.6,
+            "votes": 36,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [
+                "super production"
+            ],
+            "length": "",
+            "posts": 0
+        },
+        "1075": {
+            "rating": 9.1,
+            "votes": 32,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [
+                "super production"
+            ],
+            "length": "",
+            "posts": 0
+        },
+        "1076": {
+            "rating": 8.8,
+            "votes": 30,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [
+                "super production"
+            ],
+            "length": "",
+            "posts": 0
+        },
+        "1077": {
+            "rating": 7.4,
+            "votes": 14,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1078": {
+            "rating": 8.4,
+            "votes": 14,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1079": {
+            "rating": 8.5,
+            "votes": 12,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1080": {
+            "rating": 9.2,
+            "votes": 21,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1081": {
+            "rating": 9,
+            "votes": 20,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1082": {
+            "rating": 6.3,
+            "votes": 11,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1083": {
+            "rating": 5.2,
+            "votes": 14,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1084": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1085": {
+            "rating": 8.1,
+            "votes": 14,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1086": {
+            "rating": 8.4,
+            "votes": 9,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1087": {
+            "rating": 7,
+            "votes": 10,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1088": {
+            "rating": 6.3,
+            "votes": 9,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1089": {
+            "rating": 9.3,
+            "votes": 21,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [
+                "super production"
+            ],
+            "length": "",
+            "posts": 0
+        },
+        "1090": {
+            "rating": 7,
+            "votes": 17,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1091": {
+            "rating": 8,
+            "votes": 11,
+            "staff": {
+                "ed": ["Sho Matsui"],
+                "sb": ["Yasunori Koyama", "Sho Matsui", "Satoshi Ito"],
+                "ad": ["Hirotaka Ito", "Keita Saito"],
+                "Assistent Director": ["Mamoru Yokota", "Junichi Hayama", "Masayuki Sato"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1092": {
+            "rating": 7.2,
+            "votes": 12,
+            "staff": {
+                "ed": ["Katsumi Tokoro"],
+                "sb": [],
+                "ad": ["Shigefumi Shingaki"],
+                "Art Director": ["Dhavee Morato"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1093": {
+            "rating": 7.8,
+            "votes": 9,
+            "staff": {
+                "ed": ["Sho Inuzuka"],
+                "sb": ["Sho Inuzuka", "Katsumi Ishizuka"],
+                "ad": ["Kazuya Hisada"]
+            },
+            "tags": [
+                "super production"
+            ],
+            "length": "",
+            "posts": 0
+        },
+        "1094": {
+            "rating": 7.5,
+            "votes": 6,
+            "staff": {
+                "ed": ["Yasuhiro Tanabe"],
+                "sb": [],
+                "ad": ["Masahiro Kitazaki"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1095": {
+            "rating": 8.3,
+            "votes": 13,
+            "staff": {
+                "ed": ["Hyun Ieri"],
+                "sb": ["Masahiro Hosoda", "Satoshi Ito"],
+                "ad": ["Toshio Deguchi", "Grand Guerilla"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1096": {
+            "rating": 8.3,
+            "votes": 10,
+            "staff": {
+                "ed": ["Tasuku Shimaya"],
+                "sb": ["Tasuku Shimaya"],
+                "ad": ["Masahiro Shimanuki"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1097": {
+            "rating": 6.2,
+            "votes": 6,
+            "staff": {
+                "ed": ["Hazuki Omoya"],
+                "sb": [],
+                "ad": ["Kenji Yokoyama"],
+                "Art Director": ["Dhavee Morato"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1098": {
+            "rating": 7.8,
+            "votes": 12,
+            "staff": {
+                "ed": ["Toshinori Fukuzawa"],
+                "sb": [],
+                "ad": ["Shuichi Ito"],
+                "Art Director": ["Shoji Yonemura"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1099": {
+            "rating": 4.3,
+            "votes": 7,
+            "staff": {
+                "ed": ["Kenichi Takeshita"],
+                "sb": ["Kenichi Takeshita", "Yutaka Nakashima"],
+                "ad": ["Masayuki Takagi"],
+                "Art Director": ["Dino Santos"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1100": {
+            "rating": 9.8,
+            "votes": 36,
+            "staff": {
+                "ed": ["Nozomu Shishido"],
+                "sb": [],
+                "ad": ["Hiroyasu Oda", "Keita Saito", "Hirotaka Ito"]
+            },
+            "tags": [
+                "super production"
+            ],
+            "length": "",
+            "posts": 0
+        },
+        "1101": {
+            "rating": 8.8,
+            "votes": 22,
+            "staff": {
+                "ed": ["Matsumi"],
+                "sb": [],
+                "ad": ["Yong-Ce Tu", "He Ziwei", "Masayuki Sato"]
+            },
+            "tags": [
+                "super production"
+            ],
+            "length": "",
+            "posts": 0
+        },
+        "1102": {
+            "rating": 6.8,
+            "votes": 10,
+            "staff": {
+                "ed": ["Yusuke Suzuki"],
+                "sb": [],
+                "ad": ["Shigefumi Shingaki"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1103": {
+            "rating": 7.1,
+            "votes": 20,
+            "staff": {
+                "ed": ["Katsumi Tokoro"],
+                "sb": [],
+                "ad": ["Kazuya Hisada"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1104": {
+            "rating": 8.2,
+            "votes": 18,
+            "staff": {
+                "ed": ["Sho Matsui"],
+                "sb": ["Sho Matsui", "Yasunori Koyama", "Sho Inuzuka"],
+                "ad": ["Masahiro Kitazaki"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1105": {
+            "rating": 7.1,
+            "votes": 12,
+            "staff": {
+                "ed": ["Hazuki Omoya"],
+                "sb": ["Hazuki Omoya"],
+                "ad": ["Grand Guerilla", "Toshio Deguchi"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1106": {
+            "rating": 7.9,
+            "votes": 19,
+            "staff": {
+                "ed": ["Hyun Ieri", "Yasunori Koyama"],
+                "sb": [],
+                "ad": ["Eisaku Inoue"],
+                "Art Director": ["Natsuki Takeda", "Nagisa Nishida"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1107": {
+            "rating": 7.8,
+            "votes": 15,
+            "staff": {
+                "ed": ["Tasuku Shimaya"],
+                "sb": ["Kenji Yokoyama"],
+                "ad": [],
+                "Art Director": ["Dhavee Morato"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1108": {
+            "rating": 5.9,
+            "votes": 18,
+            "staff": {
+                "ed": ["Atsuko Yamai"],
+                "sb": ["Tatsuya Nagamine"],
+                "ad": ["Masahiro Shimanuki"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1109": {
+            "rating": 8.6,
+            "votes": 24,
+            "staff": {
+                "ed": ["Nanami Michibata"],
+                "sb": ["Nanami Michibata", "Masahiro Hosoda"],
+                "ad": ["Masayuki Takagi"],
+                "Art Director": ["Dino Santos"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1110": {
+            "rating": 5,
+            "votes": 20,
+            "staff": {
+                "ed": ["Katsumi Tokoro"],
+                "sb": ["Katsumi Tokoro"],
+                "ad": ["Shuichi Ito", "Nobuyuki Iwai"],
+                "Art Director": ["Chen Yong-Nian"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        },
+        "1111": {
+            "rating": 8,
+            "votes": 19,
+            "staff": {
+                "ed": ["Toshinori Fukuzawa"],
+                "sb": ["Toshinori Fukuzawa"],
+                "ad": ["Hirotaka Ito", "Masami Mori", "Keita Saito"],
+                "Assistent Director": ["Hiroshi Higashi"],
+                "Assistant Animation Director": ["Kenji Yokoyama", "Takuyama Neru"],
+                "Production Assistant": ["Hiroya Wada"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": 0
+        }
+    }
+}
