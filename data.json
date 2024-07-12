@@ -4,9 +4,10 @@
             "rating": 7.3,
             "votes": 18,
             "staff": {
-                "ed": [],
-                "sb": [],
-                "ad": []
+                "ed": ["Sho Inuzuka"],
+                "sb": ["Sho Inuzuka", "Toshinori Fukuzawa"],
+                "ad": ["Masayuki Takagi"],
+                "Art Director": ["Tongnian Chen"]
             },
             "tags": [],
             "length": "",
@@ -16,9 +17,10 @@
             "rating": 6.8,
             "votes": 32,
             "staff": {
-                "ed": [],
+                "ed": ["Yusuke Suzuki"],
                 "sb": [],
-                "ad": []
+                "ad": ["Shuichi Ito"],
+                "Art Director": ["Midori Tanaka", "Jason Dela Cruz"]
             },
             "tags": [],
             "length": "",
@@ -28,9 +30,10 @@
             "rating": 9.3,
             "votes": 49,
             "staff": {
-                "ed": [],
+                "ed": ["Tatsuya Nagamine"],
                 "sb": [],
-                "ad": []
+                "ad": ["Midori Matsuda", "Keita Saito"],
+                "Art Director": ["Nagisa Nishida"]
             },
             "tags": [
                 "super production"
@@ -42,9 +45,10 @@
             "rating": 9.4,
             "votes": 33,
             "staff": {
-                "ed": [],
-                "sb": [],
-                "ad": []
+                "ed": ["Tasuku Shimaya"],
+                "sb": ["Tasuku Shimaya", "Bahi JD", "Takeshi Maenami", "Yong-Ce Tu", "Megumi Ishitani"],
+                "ad": ["Nobuyuki Iwai", "Shigefumi Shingaki", "Masami Mori", "Hirotaka Ito"],
+                "Art Director": ["Dhavee Morato"]
             },
             "tags": [
                 "super production"
@@ -56,9 +60,10 @@
             "rating": 4.3,
             "votes": 27,
             "staff": {
-                "ed": [],
+                "ed": ["Katsumi Tokoro"],
                 "sb": [],
-                "ad": []
+                "ad": ["Mamoru Yokota"],
+                "Art Director": ["Tongnian Chen"]
             },
             "tags": [],
             "length": "",
@@ -68,9 +73,10 @@
             "rating": 9.6,
             "votes": 36,
             "staff": {
-                "ed": [],
-                "sb": [],
-                "ad": []
+                "ed": ["Nanami Michibata"],
+                "sb": ["Masahiro Hosoda", "Sota Shigetsugu"],
+                "ad": ["Kazuya Hisada", "Sota Shigetsugu", "Shuu Sugita"],
+                "Art Director": ["Yurino Doi", "Uli Samaniego"]
             },
             "tags": [
                 "super production"
@@ -82,9 +88,10 @@
             "rating": 9.1,
             "votes": 32,
             "staff": {
-                "ed": [],
+                "ed": ["Yasunori Koyama"],
                 "sb": [],
-                "ad": []
+                "ad": ["Yong-Ce Tu","Masahiro Kitazaki"],
+                "Art Director": ["Momoko Fujikura"]
             },
             "tags": [
                 "super production"
@@ -96,9 +103,10 @@
             "rating": 8.8,
             "votes": 30,
             "staff": {
-                "ed": [],
+                "ed": ["Satoshi Ito"],
                 "sb": [],
-                "ad": []
+                "ad": ["Yong-Ce Tu", "He Ziwei"],
+                "Art Director": ["Nagisa Nishida"]
             },
             "tags": [
                 "super production"
@@ -110,9 +118,10 @@
             "rating": 7.4,
             "votes": 14,
             "staff": {
-                "ed": [],
+                "ed": ["Hazuki Omoya"],
                 "sb": [],
-                "ad": []
+                "ad": ["Toshio Deguchi", "Masahiro Shimanuki"],
+                "Art Director": ["Dhavee Morato"]
             },
             "tags": [],
             "length": "",
@@ -122,9 +131,10 @@
             "rating": 8.4,
             "votes": 14,
             "staff": {
-                "ed": [],
+                "ed": ["Toshinori Fukuzawa"],
                 "sb": [],
-                "ad": []
+                "ad": ["Kenji Yokoyama"],
+                "Art Director": ["Tongnian Chen"]
             },
             "tags": [],
             "length": "",
@@ -134,9 +144,10 @@
             "rating": 8.5,
             "votes": 12,
             "staff": {
-                "ed": [],
+                "ed": ["Yusuke Suzuki"],
                 "sb": [],
-                "ad": []
+                "ad": ["Masayuki Takagi"],
+                "Art Director": ["Dino Santos"]
             },
             "tags": [],
             "length": "",
@@ -146,9 +157,10 @@
             "rating": 9.2,
             "votes": 21,
             "staff": {
-                "ed": [],
+                "ed": ["Ryota Nakamura"],
                 "sb": [],
-                "ad": []
+                "ad": ["Shuichi Ito", "Toshio Deguchi"],
+                "Art Director": ["Midori Tanaka"]
             },
             "tags": [],
             "length": "",
@@ -293,7 +305,8 @@
                 "ed": ["Sho Matsui"],
                 "sb": ["Yasunori Koyama", "Sho Matsui", "Satoshi Ito"],
                 "ad": ["Hirotaka Ito", "Keita Saito"],
-                "Assistent Director": ["Mamoru Yokota", "Junichi Hayama", "Masayuki Sato"]
+                "Art Director": ["Midori Tanaka", "Nagisa Nishida"],
+                "Assistant Animation Director": ["Masayuki Sato", "Mamoru Yokota", "Junichi Hayama", "Masayuki Sato"]
             },
             "tags": [],
             "length": "",
@@ -318,7 +331,8 @@
             "staff": {
                 "ed": ["Sho Inuzuka"],
                 "sb": ["Sho Inuzuka", "Katsumi Ishizuka"],
-                "ad": ["Kazuya Hisada"]
+                "ad": ["Kazuya Hisada"],
+                "Art Director": ["Tongnian Chen"]
             },
             "tags": [
                 "super production"
@@ -332,7 +346,8 @@
             "staff": {
                 "ed": ["Yasuhiro Tanabe"],
                 "sb": [],
-                "ad": ["Masahiro Kitazaki"]
+                "ad": ["Masahiro Kitazaki"],
+                "Art Director": ["Dino Santos"]
             },
             "tags": [],
             "length": "",
@@ -344,7 +359,8 @@
             "staff": {
                 "ed": ["Hyun Ieri"],
                 "sb": ["Masahiro Hosoda", "Satoshi Ito"],
-                "ad": ["Toshio Deguchi", "Grand Guerilla"]
+                "ad": ["Toshio Deguchi", "Grand Guerilla"],
+                "Art Director": ["Momoko Fujikura"]
             },
             "tags": [],
             "length": "",
@@ -356,7 +372,8 @@
             "staff": {
                 "ed": ["Tasuku Shimaya"],
                 "sb": ["Tasuku Shimaya"],
-                "ad": ["Masahiro Shimanuki"]
+                "ad": ["Masahiro Shimanuki"],
+                "Art Director": ["Natsuki Takeda", "Nagisa Nishida"]
             },
             "tags": [],
             "length": "",
@@ -407,7 +424,8 @@
             "staff": {
                 "ed": ["Nozomu Shishido"],
                 "sb": [],
-                "ad": ["Hiroyasu Oda", "Keita Saito", "Hirotaka Ito"]
+                "ad": ["Hiroyasu Oda", "Keita Saito", "Hirotaka Ito"],
+                "Art Director": ["Midori Tanaka"]
             },
             "tags": [
                 "super production"
@@ -421,7 +439,8 @@
             "staff": {
                 "ed": ["Matsumi"],
                 "sb": [],
-                "ad": ["Yong-Ce Tu", "He Ziwei", "Masayuki Sato"]
+                "ad": ["Yong-Ce Tu", "He Ziwei", "Masayuki Sato"],
+                "Art Director": ["Nagisa Nishida", "Natsuki Takeda"]
             },
             "tags": [
                 "super production"
@@ -435,7 +454,8 @@
             "staff": {
                 "ed": ["Yusuke Suzuki"],
                 "sb": [],
-                "ad": ["Shigefumi Shingaki"]
+                "ad": ["Shigefumi Shingaki"],
+                "Art Director": ["Dhavee Morato"]
             },
             "tags": [],
             "length": "",
@@ -447,7 +467,8 @@
             "staff": {
                 "ed": ["Katsumi Tokoro"],
                 "sb": [],
-                "ad": ["Kazuya Hisada"]
+                "ad": ["Kazuya Hisada"],
+                "Art Director": ["Jiao Mou"]
             },
             "tags": [],
             "length": "",
@@ -459,7 +480,8 @@
             "staff": {
                 "ed": ["Sho Matsui"],
                 "sb": ["Sho Matsui", "Yasunori Koyama", "Sho Inuzuka"],
-                "ad": ["Masahiro Kitazaki"]
+                "ad": ["Masahiro Kitazaki"],
+                "Art Director": ["Dino Santos"]
             },
             "tags": [],
             "length": "",
@@ -495,8 +517,8 @@
             "votes": 15,
             "staff": {
                 "ed": ["Tasuku Shimaya"],
-                "sb": ["Kenji Yokoyama"],
-                "ad": [],
+                "sb": [],
+                "ad": ["Kenji Yokoyama"],
                 "Art Director": ["Dhavee Morato"]
             },
             "tags": [],
@@ -509,7 +531,8 @@
             "staff": {
                 "ed": ["Atsuko Yamai"],
                 "sb": ["Tatsuya Nagamine"],
-                "ad": ["Masahiro Shimanuki"]
+                "ad": ["Masahiro Shimanuki"],
+                "Assistant Animation Director": ["Shin Kashiwaguma", "Hiroto Saito"]
             },
             "tags": [],
             "length": "",
