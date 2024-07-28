@@ -1,6 +1,7 @@
 {
     "ranking": {
         "1100": 9.8,
+        "1112": 9.7,
         "1074": 9.6,
         "1072": 9.4,
         "1071": 9.3,
@@ -677,8 +678,8 @@
             "posts": 7
         },
         "1112": {
-            "rating": null,
-            "votes": null,
+            "rating": 9.7,
+            "votes": 60,
             "staff": {
                 "ed": ["Wataru Matsumi"],
                 "sb": ["Wataru Matsumi"],
@@ -687,6 +688,22 @@
                 "Production Assistant": ["Hajime Monden"]
             },
             "tags": ["super production"],
+            "length": "13 minutes and 20 seconds",
+            "posts": 15
+        },
+        "1113": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yusuke Suzuki"],
+                "sb": ["Yusuke Suzuki"],
+                "ad": ["Shigefumi Shingaki", "Toshio Deguchi"],
+                "ka": [],
+                "Assistent Director": ["Sho Matsui"],
+                "Art Director": ["Taka Mu"],
+                "Production Assistant": ["Chafik"]
+            },
+            "tags": [],
             "length": "",
             "posts": null
         }
