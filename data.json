@@ -1,5 +1,6 @@
 {
     "ranking": {
+        "1015": 10,
         "1100": 9.8,
         "1112": 9.7,
         "1074": 9.6,
@@ -46,16 +47,2385 @@
         "1073": 4.3,
         "1084": null
     },
+
     "episodes": {
+        "892": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Tatsuya Nagamine"],
+                "sb": [],
+                "ad": ["Midori Matsuda"],
+                "Art Director": ["Sadaaki Honma", "Toshinori Iino"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "893": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Kohei Kureta"],
+                "sb": [],
+                "ad": ["Shuichi Ito"],
+                "Art Director": ["Sadaaki Honma", "Midori Tanaka"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "894": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Aya Komaki"],
+                "sb": [],
+                "ad": ["Yusuke Isochi", "Yukiko Nakatani"],
+                
+                "Art Director": ["Sadaaki Honma", "Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "895": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yutaka Nakashima"],
+                "sb": [],
+                "ad": ["Masahiro Kitazaki"],
+                "Art Director": ["Ryuji Yoshiike"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "896": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Hiroyuki Sato"],
+                "sb": [],
+                "ad": ["Shigefumi Shingaki"],
+                "Art Director": ["Miho Shiraishi"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "897": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Satoshi Ito"],
+                "sb": [],
+                "ad": ["Eisaku Inoue", "Kimitaka Ito"],
+                
+                "Art Director": ["Toshinori Iino"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "898": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yasunori Koyama"],
+                "sb": [],
+                "ad": ["Masahiro Shimanuki"],
+                
+                "Art Director": ["Natsuko Tosugi", "Yu Saito"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "899": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yusuke Suzuki"],
+                "sb": [],
+                "ad": ["Toshio Deguchi"],
+                
+                "Art Director": ["Toshinori Iino"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "900": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Tasuku Shimaya"],
+                "sb": ["Aya Komaki"],
+                "ad": ["Kenji Yokoyama"],
+                
+                "Art Director": ["Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "901": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Satoshi Ito"],
+                "sb": [],
+                "ad": ["Kazuya Hisada"],
+                
+                "Art Director": ["Guo Wei Huang","Midori Tanaka"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "902": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Katsumi Tokoro"],
+                "sb": [],
+                "ad": ["Masahiro Kitazaki"],
+                
+                "Art Director": ["Yu Saito"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "903": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yusuke Suzuki"],
+                "sb": ["Yutaka Nakashima"],
+                "ad": ["Shuichi Ito"],
+                
+                "Art Director": ["Sadaaki Honma"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "904": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Masahiro Hosoda"],
+                "sb": [],
+                "ad": ["Masayuki Takagi"],
+                
+                "Art Director": ["Midori Tanaka", "Tongnian Chen"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "905": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Tasuku Shimaya"],
+                "sb": ["Takahiro Imamura"],
+                "ad": ["Masahiro Shimanuki"],
+                
+                "Art Director": ["Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "906": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yasunori Koyama"],
+                "sb": ["Toshinori Fukuzawa"],
+                "ad": ["Shigefumi Shingaki"],
+                
+                "Art Director": ["Toshinori Iino"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "907": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Kohei Kureta"],
+                "sb": [],
+                "ad": ["Kimitaka Ito", "Eisaku Inoue"],
+                
+                "Art Director": ["Ryuji Yoshiike"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "908": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yutaka Nakashima"],
+                "sb": [],
+                "ad": ["Toshio Deguchi"],
+                
+                "Art Director": ["Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "909": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Aya Komaki"],
+                "sb": [],
+                "ad": ["Kenji Yokoyama"],
+                
+                "Art Director": ["Midori Tanaka"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "910": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Satoshi Ito"],
+                "sb": [],
+                "ad": ["Kazuya Hisada"],
+                
+                "Art Director": ["Shinzo Fujita"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "911": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Daisuke Nakajima"],
+                "sb": [],
+                "ad": ["Masahiro Kitazaki"],
+                
+                "Art Director": ["Midori Tanaka"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "912": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Masahiro Hosoda"],
+                "sb": ["Akitaro Daichi"],
+                "ad": ["Masayuki Takagi"],
+                
+                "Art Director": ["Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "913": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yusuke Suzuki"],
+                "sb": [],
+                "ad": ["Eisaku Inoue"],
+                
+                "Art Director": ["Guo Wei Huang", "Tongnian Chen"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "914": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yasunori Koyama"],
+                "sb": [],
+                "ad": ["Masahiro Shimanuki", "Kimitaka Ito"],
+                
+                "Art Director": ["Midori Tanaka"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "915": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Katsumi Tokoro"],
+                "sb": [],
+                "ad": ["Shigefumi Shingaki"],
+                
+                "Art Director": ["Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "916": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yutaka Nakashima"],
+                "sb": [],
+                "ad": ["Shuichi Ito"],
+                
+                "Art Director": ["Tongnian Chen"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "917": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Aya Komaki"],
+                "sb": [],
+                "ad": ["Kenji Yokoyama"],
+                
+                "Art Director": ["Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "918": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Masahiro Hosoda"],
+                "sb": [],
+                "ad": ["Kazuya Hisada"],
+                
+                "Art Director": ["Yurino Doi"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "919": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Satoshi Ito"],
+                "sb": [],
+                "ad": ["Yuki Minagawa", "Yusuke Isochi", "Yukiko Nakatani"],
+                
+                "Art Director": ["Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "920": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yutaka Nakashima"],
+                "sb": [],
+                "ad": ["Keita Saito", "Toshio Deguchi"],
+                
+                "Art Director": ["Midori Tanaka"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "921": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yasunori Koyama"],
+                "sb": ["Hiroshi Hara"],
+                "ad": ["Masahiro Kitazaki"],
+                
+                "Art Director": ["Toshinori Iino"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "922": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yusuke Suzuki"],
+                "sb": [],
+                "ad": ["Masayuki Takagi"],
+                
+                "Art Director": ["Sadaaki Honma"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "923": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Katsumi Tokoro"],
+                "sb": ["Akitaro Daichi"],
+                "ad": ["Masahiro Shimanuki"],
+                
+                "Art Director": ["Midori Tanaka"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "924": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Tasuku Shimaya"],
+                "sb": ["Aya Komaki"],
+                "ad": ["Eisaku Inoue", "Kimitaka Ito"],
+                
+                "Art Director": ["Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "925": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Nanami Michibata"],
+                "sb": ["Jong Heo"],
+                "ad": ["Kenji Yokoyama"],
+                
+                "Art Director": ["Midori Tanaka"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "926": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Ryosuke Tanaka"],
+                "sb": ["Yutaka Nakashima"],
+                "ad": ["Shuichi Ito"],
+                
+                "Art Director": ["Yurino Doi"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "927": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Satoshi Ito"],
+                "sb": [],
+                "ad": ["Shigefumi Shingaki", "Keiichi Ichikawa"],
+                
+                "Art Director": ["Minoru Onishi", "Sadaaki Honma"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "928": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Katsumi Tokoro"],
+                "sb": [],
+                "ad": ["Kazuya Hisada"],
+                
+                "Art Director": ["Minoru Onishi", "Sadaaki Honma"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "929": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yasunori Koyama"],
+                "sb": ["Kohei Kureta"],
+                "ad": ["Eisaku Inoue", "Kimitaka Ito"],
+                
+                "Art Director": ["Tongnian Chen"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "930": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": ["Yusuke Suzuki"],
+                "sb": ["Akitaro Daichi"],
+                "ad": ["Masahiro Shimanuki", "Shuichi Ito"],
+                
+                "Art Director": ["Guo Wei Huang"]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "931": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "932": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "933": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "934": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "935": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "936": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "937": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "938": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "939": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "940": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "941": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "942": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "943": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "944": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "945": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "946": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "947": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "948": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "949": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "950": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "951": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "952": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "953": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "954": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "955": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "956": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "957": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "958": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "959": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "960": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "961": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "962": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "963": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "964": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "965": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "966": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "967": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "968": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "969": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "970": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "971": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "972": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "973": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "974": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "975": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "976": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "977": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "978": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "979": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "980": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "981": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "982": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "983": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "984": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "985": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "986": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "987": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "988": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "989": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "990": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "991": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "992": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "993": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "994": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "995": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "996": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "997": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "998": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "999": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1000": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1001": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1002": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1003": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1004": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1005": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1006": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1007": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1008": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1009": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1010": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1011": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1012": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1013": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1014": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1015": {
+            "rating": 10,
+            "votes": 25,
+            "staff": {
+                "ed": ["Megumi Ishitani"],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": ["super production", "best rated"],
+            "length": "",
+            "posts": null
+        },
+        "1016": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1017": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1018": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1019": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1020": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1021": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1022": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1023": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1024": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1025": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1026": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1027": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1028": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1029": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1030": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1031": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1032": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1033": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1034": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1035": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1036": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1037": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1038": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1039": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1040": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1041": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1042": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1043": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1044": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1045": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1046": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1047": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1048": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1049": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1050": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1051": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1052": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1053": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1054": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1055": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1056": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1057": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1058": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1059": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1060": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1061": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1062": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1063": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1064": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1065": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1066": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1067": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
+        "1068": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [],
+                "sb": [],
+                "ad": [],
+                "Art Director": []
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        },
         "1069": {
             "rating": 7.3,
             "votes": 18,
             "staff": {
-                "ed": ["Sho Inuzuka"],
-                "sb": ["Sho Inuzuka", "Toshinori Fukuzawa"],
-                "ad": ["Masayuki Takagi"],
-                "ka": ["Masayuki Takagi", "Shigenori Taniguchi", "Nobuhiro Masuda", "Yoshikazu Tomita", "Fuyuko Iwata", "Takaaki Sonoda", "Nightberry", "Yuu Yoshiyama", "Toshizumi Murakami", "Jordan Rear / Sanguinii", "Hiroyasu Oda", "Vincent Chansard", "Toranosuke Hori"],
-                "Art Director": ["Tongnian Chen"]
+                "ed": [
+                    "Sho Inuzuka"
+                ],
+                "sb": [
+                    "Sho Inuzuka",
+                    "Toshinori Fukuzawa"
+                ],
+                "ad": [
+                    "Masayuki Takagi"
+                ],
+                "ka": [
+                    "Masayuki Takagi",
+                    "Shigenori Taniguchi",
+                    "Nobuhiro Masuda",
+                    "Yoshikazu Tomita",
+                    "Fuyuko Iwata",
+                    "Takaaki Sonoda",
+                    "Nightberry",
+                    "Yuu Yoshiyama",
+                    "Toshizumi Murakami",
+                    "Jordan Rear / Sanguinii",
+                    "Hiroyasu Oda",
+                    "Vincent Chansard",
+                    "Toranosuke Hori"
+                ],
+                "Art Director": [
+                    "Tongnian Chen"
+                ]
             },
             "tags": [],
             "length": "3 minutes and 52 seconds",
@@ -65,11 +2435,17 @@
             "rating": 6.8,
             "votes": 32,
             "staff": {
-                "ed": ["Yusuke Suzuki"],
+                "ed": [
+                    "Yusuke Suzuki"
+                ],
                 "sb": [],
-                "ad": ["Shuichi Ito"],
-                "ka": [],
-                "Art Director": ["Midori Tanaka", "Jason Dela Cruz"]
+                "ad": [
+                    "Shuichi Ito"
+                ],
+                "Art Director": [
+                    "Midori Tanaka",
+                    "Jason Dela Cruz"
+                ]
             },
             "tags": [],
             "length": "42 seconds",
@@ -79,12 +2455,49 @@
             "rating": 9.3,
             "votes": 49,
             "staff": {
-                "ed": ["Tatsuya Nagamine"],
+                "ed": [
+                    "Tatsuya Nagamine"
+                ],
                 "sb": [],
-                "ad": ["Midori Matsuda", "Keita Saito"],
-                "ka": ["Weillin Zhang", "Takashi Kojima", "Tomoyuki Takahashi", "Naotoshi Shida", "Yakumo Crack", "Eemi", "Jakisuaki", "Shotarou Ban", "Fasto", "Masayuki Sato", "Tu Yong-ce", "He Ziwei", "Wang Run Ze", "Toranosuke Hori", "Kitahara Koudai", "Takuyama Neru", "Moeka Araki", "Tatsuhiro Nagaki", "Hisashi Samejima", "Vincent Chansard", "Chris", "Michael Sung ", "Jiaqi Jin ", "Keita Saito ", "Jayu"],
-                "Art Director": ["Nagisa Nishida"],
-                "Assistant Animation Director": ["Takashi Kojima", "Masayuki Sato", "Yong-ce Tu"]
+                "ad": [
+                    "Midori Matsuda",
+                    "Keita Saito"
+                ],
+                "ka": [
+                    "Weillin Zhang",
+                    "Takashi Kojima",
+                    "Tomoyuki Takahashi",
+                    "Naotoshi Shida",
+                    "Yakumo Crack",
+                    "Eemi",
+                    "Jakisuaki",
+                    "Shotarou Ban",
+                    "Fasto",
+                    "Masayuki Sato",
+                    "Tu Yong-ce",
+                    "He Ziwei",
+                    "Wang Run Ze",
+                    "Toranosuke Hori",
+                    "Kitahara Koudai",
+                    "Takuyama Neru",
+                    "Moeka Araki",
+                    "Tatsuhiro Nagaki",
+                    "Hisashi Samejima",
+                    "Vincent Chansard",
+                    "Chris",
+                    "Michael Sung ",
+                    "Jiaqi Jin ",
+                    "Keita Saito ",
+                    "Jayu"
+                ],
+                "Art Director": [
+                    "Nagisa Nishida"
+                ],
+                "Assistant Animation Director": [
+                    "Takashi Kojima",
+                    "Masayuki Sato",
+                    "Yong-ce Tu"
+                ]
             },
             "tags": [
                 "super production"
@@ -96,12 +2509,57 @@
             "rating": 9.4,
             "votes": 33,
             "staff": {
-                "ed": ["Tasuku Shimaya"],
-                "sb": ["Tasuku Shimaya", "Bahi JD", "Takeshi Maenami", "Yong-Ce Tu", "Megumi Ishitani"],
-                "ad": ["Nobuyuki Iwai", "Shigefumi Shingaki", "Masami Mori", "Hirotaka Ito"],
-                "ka": ["Soty", "Yong-Ce Tu", "Shinya Ohira", "Akihiro Ota", "Ryo Onishi", "Bahi JD", "Chris", "Julian Bentley", "Naotoshi Shida", "Nobuyuki Iwai", "Masahiro Kitazaki", "Masayuki Sato", "Yoshikazu Tomitaa", "Shouta Sannomiya", "Hiroaki Nakamichi", "Makoto Muroi", "Noriko Ozeki", "Mieko Sato", "Qiao Huang", "Zhang Youheng", "Kamille Areopagita", "Yi Pan", "Ihabo Azzamo", "Romario Clarke", "Junghyun Jung-Boix ", "Levent Kotil"],
-                "Art Director": ["Dhavee Morato"],
-                "Assistant Animation Director": ["Bahi JD", "Masayuki Sato"]
+                "ed": [
+                    "Tasuku Shimaya"
+                ],
+                "sb": [
+                    "Tasuku Shimaya",
+                    "Bahi JD",
+                    "Takeshi Maenami",
+                    "Yong-Ce Tu",
+                    "Megumi Ishitani"
+                ],
+                "ad": [
+                    "Nobuyuki Iwai",
+                    "Shigefumi Shingaki",
+                    "Masami Mori",
+                    "Hirotaka Ito"
+                ],
+                "ka": [
+                    "Soty",
+                    "Yong-Ce Tu",
+                    "Shinya Ohira",
+                    "Akihiro Ota",
+                    "Ryo Onishi",
+                    "Bahi JD",
+                    "Chris",
+                    "Julian Bentley",
+                    "Naotoshi Shida",
+                    "Nobuyuki Iwai",
+                    "Masahiro Kitazaki",
+                    "Masayuki Sato",
+                    "Yoshikazu Tomitaa",
+                    "Shouta Sannomiya",
+                    "Hiroaki Nakamichi",
+                    "Makoto Muroi",
+                    "Noriko Ozeki",
+                    "Mieko Sato",
+                    "Qiao Huang",
+                    "Zhang Youheng",
+                    "Kamille Areopagita",
+                    "Yi Pan",
+                    "Ihabo Azzamo",
+                    "Romario Clarke",
+                    "Junghyun Jung-Boix ",
+                    "Levent Kotil"
+                ],
+                "Art Director": [
+                    "Dhavee Morato"
+                ],
+                "Assistant Animation Director": [
+                    "Bahi JD",
+                    "Masayuki Sato"
+                ]
             },
             "tags": [
                 "super production"
@@ -113,11 +2571,16 @@
             "rating": 4.3,
             "votes": 27,
             "staff": {
-                "ed": ["Katsumi Tokoro"],
+                "ed": [
+                    "Katsumi Tokoro"
+                ],
                 "sb": [],
-                "ad": ["Mamoru Yokota"],
-                "ka": [],
-                "Art Director": ["Tongnian Chen"]
+                "ad": [
+                    "Mamoru Yokota"
+                ],
+                "Art Director": [
+                    "Tongnian Chen"
+                ]
             },
             "tags": [],
             "length": "44 seconds",
@@ -127,11 +2590,48 @@
             "rating": 9.6,
             "votes": 36,
             "staff": {
-                "ed": ["Nanami Michibata"],
-                "sb": ["Masahiro Hosoda", "Sota Shigetsugu"],
-                "ad": ["Kazuya Hisada", "Sota Shigetsugu", "Shuu Sugita"],
-                "ka": ["Honehone", "Kazuya Hisada", "Shuu Sugita", "Keisuke Ookura", "Vincent Chansard", "Chris", "Kazutaka Sugiyama", "Shun/Nasu", "Hiroyuki Takashima", "Yuu Yoshiyama", "Odashi", "Hiromi Ishiggami", "Hiroyasu Oda", "Isuta", "Shotarou Ban", "Fasto", "Tomoyuki Takahashi", "Takaaki Sonoda", "Fuyuko Iwata", "Takuyama Neru", "Toranosuke Hori", "Shunsuke Hoizumi", "Tamao Takano", "Toshizumi Murakami"],
-                "Art Director": ["Yurino Doi", "Uli Samaniego"]
+                "ed": [
+                    "Nanami Michibata"
+                ],
+                "sb": [
+                    "Masahiro Hosoda",
+                    "Sota Shigetsugu"
+                ],
+                "ad": [
+                    "Kazuya Hisada",
+                    "Sota Shigetsugu",
+                    "Shuu Sugita"
+                ],
+                "ka": [
+                    "Honehone",
+                    "Kazuya Hisada",
+                    "Shuu Sugita",
+                    "Keisuke Ookura",
+                    "Vincent Chansard",
+                    "Chris",
+                    "Kazutaka Sugiyama",
+                    "Shun/Nasu",
+                    "Hiroyuki Takashima",
+                    "Yuu Yoshiyama",
+                    "Odashi",
+                    "Hiromi Ishiggami",
+                    "Hiroyasu Oda",
+                    "Isuta",
+                    "Shotarou Ban",
+                    "Fasto",
+                    "Tomoyuki Takahashi",
+                    "Takaaki Sonoda",
+                    "Fuyuko Iwata",
+                    "Takuyama Neru",
+                    "Toranosuke Hori",
+                    "Shunsuke Hoizumi",
+                    "Tamao Takano",
+                    "Toshizumi Murakami"
+                ],
+                "Art Director": [
+                    "Yurino Doi",
+                    "Uli Samaniego"
+                ]
             },
             "tags": [
                 "super production"
@@ -143,11 +2643,37 @@
             "rating": 9.1,
             "votes": 32,
             "staff": {
-                "ed": ["Yasunori Koyama"],
+                "ed": [
+                    "Yasunori Koyama"
+                ],
                 "sb": [],
-                "ad": ["Yong-Ce Tu","Masahiro Kitazaki"],
-                "ka": ["Masahiro Kitazaki", "Yong-Ce Tu", "Naotoshi Shida", "He Ziwei", "Yang Huang", "Sanguinii / Jordan Rear", "Xuan Wang 王軒", "Wang Run-Zhe", "Masahiro Shimanuki", "Zhongli Xie 谢钟黎", "Liang Huang 黄亮", "Pan He Yuan 潘鹤源", "Chen Xinxiang　陈信相　", "Zhu Enbin 朱恩斌", "Liu Shikang 刘世康", "Wei Ye Sheng 魏业盛 ", "Li Xuan 李 萱", "Xinxiong Ceng 曾信雄"],
-                "Art Director": ["Momoko Fujikura"]
+                "ad": [
+                    "Yong-Ce Tu",
+                    "Masahiro Kitazaki"
+                ],
+                "ka": [
+                    "Masahiro Kitazaki",
+                    "Yong-Ce Tu",
+                    "Naotoshi Shida",
+                    "He Ziwei",
+                    "Yang Huang",
+                    "Sanguinii / Jordan Rear",
+                    "Xuan Wang 王軒",
+                    "Wang Run-Zhe",
+                    "Masahiro Shimanuki",
+                    "Zhongli Xie 谢钟黎",
+                    "Liang Huang 黄亮",
+                    "Pan He Yuan 潘鹤源",
+                    "Chen Xinxiang　陈信相　",
+                    "Zhu Enbin 朱恩斌",
+                    "Liu Shikang 刘世康",
+                    "Wei Ye Sheng 魏业盛 ",
+                    "Li Xuan 李 萱",
+                    "Xinxiong Ceng 曾信雄"
+                ],
+                "Art Director": [
+                    "Momoko Fujikura"
+                ]
             },
             "tags": [
                 "super production"
@@ -159,11 +2685,46 @@
             "rating": 8.8,
             "votes": 30,
             "staff": {
-                "ed": ["Satoshi Ito"],
+                "ed": [
+                    "Satoshi Ito"
+                ],
                 "sb": [],
-                "ad": ["Yong-Ce Tu", "He Ziwei"],
-                "ka": ["Yong-Ce Tu", "He Ziwei", "Vincent Chansard", "Yoshikazu Tomitaa", "Wang Runze", "Yang Huang", "Masahiro Kitazaki", "Naotoshi Shida", "Toranosuke Hori", "Wang Xuan ", "Shuuhei Yasuda", "Ines Scheiber", "Henry Thurlow", "Qiao Huang ", "Jiaqi Jin 金嘉琪", "Muggle 麻瓜", "Xiao Yang 肖洋", "Meng Sun 孫猛", "Chengxi Huang", "Li Lian 李 栩", "CHEUNG KA HO 張 家豪", "jay1jay1jay1", "Jianpei Lu", "英格拉姆 Ingram", "Xiao Ka 小卡", "Masayuki Kouda", "Toshiyuki Sato"],
-                "Art Director": ["Nagisa Nishida"]
+                "ad": [
+                    "Yong-Ce Tu",
+                    "He Ziwei"
+                ],
+                "ka": [
+                    "Yong-Ce Tu",
+                    "He Ziwei",
+                    "Vincent Chansard",
+                    "Yoshikazu Tomitaa",
+                    "Wang Runze",
+                    "Yang Huang",
+                    "Masahiro Kitazaki",
+                    "Naotoshi Shida",
+                    "Toranosuke Hori",
+                    "Wang Xuan ",
+                    "Shuuhei Yasuda",
+                    "Ines Scheiber",
+                    "Henry Thurlow",
+                    "Qiao Huang ",
+                    "Jiaqi Jin 金嘉琪",
+                    "Muggle 麻瓜",
+                    "Xiao Yang 肖洋",
+                    "Meng Sun 孫猛",
+                    "Chengxi Huang",
+                    "Li Lian 李 栩",
+                    "CHEUNG KA HO 張 家豪",
+                    "jay1jay1jay1",
+                    "Jianpei Lu",
+                    "英格拉姆 Ingram",
+                    "Xiao Ka 小卡",
+                    "Masayuki Kouda",
+                    "Toshiyuki Sato"
+                ],
+                "Art Director": [
+                    "Nagisa Nishida"
+                ]
             },
             "tags": [
                 "super production"
@@ -175,12 +2736,35 @@
             "rating": 7.4,
             "votes": 14,
             "staff": {
-                "ed": ["Hazuki Omoya"],
+                "ed": [
+                    "Hazuki Omoya"
+                ],
                 "sb": [],
-                "ad": ["Toshio Deguchi", "Masahiro Shimanuki"],
-                "ka": ["Toshio Deguchi", "Eisaku Inoue", "Tetsuya Saeki", "Eemi", "Yoichi Mitsui", "Daichi Nozawa", "24m²", "Fasto", "Shotarou Ban", "Hisashi Samejima", "Toshizumi Murakami", "simddang", "Haruma Edo"],
-                "Art Director": ["Dhavee Morato"],
-                "Assistant Animation Director": ["Yong-ce Tu"]
+                "ad": [
+                    "Toshio Deguchi",
+                    "Masahiro Shimanuki"
+                ],
+                "ka": [
+                    "Toshio Deguchi",
+                    "Eisaku Inoue",
+                    "Tetsuya Saeki",
+                    "Eemi",
+                    "Yoichi Mitsui",
+                    "Daichi Nozawa",
+                    "24m²",
+                    "Fasto",
+                    "Shotarou Ban",
+                    "Hisashi Samejima",
+                    "Toshizumi Murakami",
+                    "simddang",
+                    "Haruma Edo"
+                ],
+                "Art Director": [
+                    "Dhavee Morato"
+                ],
+                "Assistant Animation Director": [
+                    "Yong-ce Tu"
+                ]
             },
             "tags": [],
             "length": "2 minutes and 26 seconds",
@@ -190,11 +2774,33 @@
             "rating": 8.4,
             "votes": 14,
             "staff": {
-                "ed": ["Toshinori Fukuzawa"],
-                "sb": ["Toshinori Fukuzawa"],
-                "ad": ["Kenji Yokoyama"],
-                "ka": ["Kenji Yokoyama", "Ryo Onishi", "Akemi Ueda", "Eisaku Inoue", "Takaaki Sonoda", "Nobuhiro Mauda", "Kazue Kinoshita", "Hirotaka Ito", "Mieko Saito", "Sadatohi Matsuzaka", "Ihabo Azzamo ", "Yoshito Miki", "Hijiri Yamaoka"],
-                "Art Director": ["Tongnian Chen"]
+                "ed": [
+                    "Toshinori Fukuzawa"
+                ],
+                "sb": [
+                    "Toshinori Fukuzawa"
+                ],
+                "ad": [
+                    "Kenji Yokoyama"
+                ],
+                "ka": [
+                    "Kenji Yokoyama",
+                    "Ryo Onishi",
+                    "Akemi Ueda",
+                    "Eisaku Inoue",
+                    "Takaaki Sonoda",
+                    "Nobuhiro Mauda",
+                    "Kazue Kinoshita",
+                    "Hirotaka Ito",
+                    "Mieko Saito",
+                    "Sadatohi Matsuzaka",
+                    "Ihabo Azzamo ",
+                    "Yoshito Miki",
+                    "Hijiri Yamaoka"
+                ],
+                "Art Director": [
+                    "Tongnian Chen"
+                ]
             },
             "tags": [],
             "length": "1 minutes and 45 seconds",
@@ -204,12 +2810,34 @@
             "rating": 8.5,
             "votes": 12,
             "staff": {
-                "ed": ["Yusuke Suzuki"],
+                "ed": [
+                    "Yusuke Suzuki"
+                ],
                 "sb": [],
-                "ad": ["Masayuki Takagi"],
-                "ka": ["Masayuki Takagi", "Eisaku Inoue", "Shigeki Sato", "Tetsuya Saeki", "Fuyuko Iwata", "Shigenori Taniguchi", "Noriko Ozeki", "​​Miki Nomura", "Yukihide Oku", "Tatsuhiro Nagaki", "Yoshikazu Tomita", "Yuki Muranaga", "Hajime Inubu"],
-                "Art Director": ["Dino Santos"],
-                "Assistant Animation Director": ["Eisaku Inoue"]
+                "ad": [
+                    "Masayuki Takagi"
+                ],
+                "ka": [
+                    "Masayuki Takagi",
+                    "Eisaku Inoue",
+                    "Shigeki Sato",
+                    "Tetsuya Saeki",
+                    "Fuyuko Iwata",
+                    "Shigenori Taniguchi",
+                    "Noriko Ozeki",
+                    "​​Miki Nomura",
+                    "Yukihide Oku",
+                    "Tatsuhiro Nagaki",
+                    "Yoshikazu Tomita",
+                    "Yuki Muranaga",
+                    "Hajime Inubu"
+                ],
+                "Art Director": [
+                    "Dino Santos"
+                ],
+                "Assistant Animation Director": [
+                    "Eisaku Inoue"
+                ]
             },
             "tags": [],
             "length": "36 seconds",
@@ -219,11 +2847,17 @@
             "rating": 9.2,
             "votes": 21,
             "staff": {
-                "ed": ["Ryota Nakamura"],
+                "ed": [
+                    "Ryota Nakamura"
+                ],
                 "sb": [],
-                "ad": ["Shuichi Ito", "Toshio Deguchi"],
-                "ka": [],
-                "Art Director": ["Midori Tanaka"]
+                "ad": [
+                    "Shuichi Ito",
+                    "Toshio Deguchi"
+                ],
+                "Art Director": [
+                    "Midori Tanaka"
+                ]
             },
             "tags": [],
             "length": "3 minutes and 33 seconds",
@@ -233,12 +2867,41 @@
             "rating": 9,
             "votes": 20,
             "staff": {
-                "ed": ["Sho Matsui"],
+                "ed": [
+                    "Sho Matsui"
+                ],
                 "sb": [],
-                "ad": ["Shigefumi Shingaki"],
-                "ka": ["Eisaku Inoue", "Toranosuke Hori", "Shigefumi Shingaki", "Tatsuhiro Nagaki", "Makoto Muroi", "Yuu Yoshiyama", "Ruko", "Jamie Merry", "Shigeki Sato", "Henry Thurlow", "Ishitsuka", "Fasto", "Charline Lemoal", "Kenta Nakada", "Shoutarou Ban", "Kitahara Koudai", "Shuusuke Hoizumi", "Big reg"],
-                "Art Director": ["Momoko Fujikura"],
-                "Assistant Animation Director": ["Takuyama Neru", "Eisaku Inoue", "Yong-ce Tu"]
+                "ad": [
+                    "Shigefumi Shingaki"
+                ],
+                "ka": [
+                    "Eisaku Inoue",
+                    "Toranosuke Hori",
+                    "Shigefumi Shingaki",
+                    "Tatsuhiro Nagaki",
+                    "Makoto Muroi",
+                    "Yuu Yoshiyama",
+                    "Ruko",
+                    "Jamie Merry",
+                    "Shigeki Sato",
+                    "Henry Thurlow",
+                    "Ishitsuka",
+                    "Fasto",
+                    "Charline Lemoal",
+                    "Kenta Nakada",
+                    "Shoutarou Ban",
+                    "Kitahara Koudai",
+                    "Shuusuke Hoizumi",
+                    "Big reg"
+                ],
+                "Art Director": [
+                    "Momoko Fujikura"
+                ],
+                "Assistant Animation Director": [
+                    "Takuyama Neru",
+                    "Eisaku Inoue",
+                    "Yong-ce Tu"
+                ]
             },
             "tags": [],
             "length": "4 minutes and 55 seconds",
@@ -248,11 +2911,17 @@
             "rating": 6.3,
             "votes": 11,
             "staff": {
-                "ed": ["Sho Inuzuka"],
+                "ed": [
+                    "Sho Inuzuka"
+                ],
                 "sb": [],
-                "ad": ["Keita Saito", "Kimitaka Ito"],
-                "ka": [],
-                "Art Director": ["Dhavee Morato"]
+                "ad": [
+                    "Keita Saito",
+                    "Kimitaka Ito"
+                ],
+                "Art Director": [
+                    "Dhavee Morato"
+                ]
             },
             "tags": [],
             "length": "58 seconds",
@@ -262,11 +2931,30 @@
             "rating": 5.2,
             "votes": 14,
             "staff": {
-                "ed": ["Katsumi Tokoro"],
+                "ed": [
+                    "Katsumi Tokoro"
+                ],
                 "sb": [],
-                "ad": ["Kazuya Hisada"],
-                "ka": ["Kazuya Hisada", "Eisaku Inoue", "Takuyama Neru", "Tetsuya Sano", "Sadatoshi Matsuzaka", "Tatsuya Miki", "Shinichi Iimura", "Sayaka Takemoto", "Riki Miura", "Kazue Kinoshita", "Hisashi Samejima", "Daichi Nozawa"],
-                "Art Director": ["Tongnian Chen"]
+                "ad": [
+                    "Kazuya Hisada"
+                ],
+                "ka": [
+                    "Kazuya Hisada",
+                    "Eisaku Inoue",
+                    "Takuyama Neru",
+                    "Tetsuya Sano",
+                    "Sadatoshi Matsuzaka",
+                    "Tatsuya Miki",
+                    "Shinichi Iimura",
+                    "Sayaka Takemoto",
+                    "Riki Miura",
+                    "Kazue Kinoshita",
+                    "Hisashi Samejima",
+                    "Daichi Nozawa"
+                ],
+                "Art Director": [
+                    "Tongnian Chen"
+                ]
             },
             "tags": [],
             "length": "0 seconds",
@@ -276,11 +2964,25 @@
             "rating": null,
             "votes": null,
             "staff": {
-                "ed": ["Kenichi Takeshita"],
+                "ed": [
+                    "Kenichi Takeshita"
+                ],
                 "sb": [],
-                "ad": ["Masahiro Kitazaki"],
-                "ka": ["Masahiro Kitazaki", "Yoshito Miki", "Makoto Muroi", "Eisaku Inoue", "Jhyg Castillejos ", "Mieko Saito", "Rangel Abreu"],
-                "Art Director": ["Dino Santos"]
+                "ad": [
+                    "Masahiro Kitazaki"
+                ],
+                "ka": [
+                    "Masahiro Kitazaki",
+                    "Yoshito Miki",
+                    "Makoto Muroi",
+                    "Eisaku Inoue",
+                    "Jhyg Castillejos ",
+                    "Mieko Saito",
+                    "Rangel Abreu"
+                ],
+                "Art Director": [
+                    "Dino Santos"
+                ]
             },
             "tags": [],
             "length": "0 seconds",
@@ -290,11 +2992,35 @@
             "rating": 8.1,
             "votes": 14,
             "staff": {
-                "ed": ["Toshinori Fukuzawa"],
+                "ed": [
+                    "Toshinori Fukuzawa"
+                ],
                 "sb": [],
-                "ad": ["Mamoru Yokota"],
-                "ka": ["Tatsuya Miki", "Akemi Ueda", "Junichi hayama", "Sadatoshi Matsuzaka", "Eisaku Inoue", "Takaaki Sonoda", "Shirou Kamiya", "Noriko Ozeki", "Ken Satou", "Tsukasa Kotobuki", "Hirotaka Marufuji", "Rui Araizumi", "Kazunori Ozawa", "Shinji Nishikawa", "Toshiyuki Sato", "Tu Yong Ce", "Mamoru Yokota"],
-                "Art Director": ["Nagisa Nishida"]
+                "ad": [
+                    "Mamoru Yokota"
+                ],
+                "ka": [
+                    "Tatsuya Miki",
+                    "Akemi Ueda",
+                    "Junichi hayama",
+                    "Sadatoshi Matsuzaka",
+                    "Eisaku Inoue",
+                    "Takaaki Sonoda",
+                    "Shirou Kamiya",
+                    "Noriko Ozeki",
+                    "Ken Satou",
+                    "Tsukasa Kotobuki",
+                    "Hirotaka Marufuji",
+                    "Rui Araizumi",
+                    "Kazunori Ozawa",
+                    "Shinji Nishikawa",
+                    "Toshiyuki Sato",
+                    "Tu Yong Ce",
+                    "Mamoru Yokota"
+                ],
+                "Art Director": [
+                    "Nagisa Nishida"
+                ]
             },
             "tags": [],
             "length": "1 minutes and 21 seconds",
@@ -304,11 +3030,29 @@
             "rating": 8.4,
             "votes": 9,
             "staff": {
-                "ed": ["Tasuku Shimaya"],
-                "sb": ["Nozomu Shishido"],
-                "ad": ["Masahiro Shimanuki"],
-                "ka": ["Nightberry", "Tatshuhiro Nagaki", "Masahiro Shimanuki", "CD One", "Jordan Rear", "Levent Kotil", "Tamao Takano", "Aaron Rodriguez", "Shotarou Ban"],
-                "Art Director": ["Momoko Fujikura"]
+                "ed": [
+                    "Tasuku Shimaya"
+                ],
+                "sb": [
+                    "Nozomu Shishido"
+                ],
+                "ad": [
+                    "Masahiro Shimanuki"
+                ],
+                "ka": [
+                    "Nightberry",
+                    "Tatshuhiro Nagaki",
+                    "Masahiro Shimanuki",
+                    "CD One",
+                    "Jordan Rear",
+                    "Levent Kotil",
+                    "Tamao Takano",
+                    "Aaron Rodriguez",
+                    "Shotarou Ban"
+                ],
+                "Art Director": [
+                    "Momoko Fujikura"
+                ]
             },
             "tags": [],
             "length": "2 minutes and 12 seconds",
@@ -318,12 +3062,36 @@
             "rating": 7,
             "votes": 10,
             "staff": {
-                "ed": ["Hazuki Omoya"],
+                "ed": [
+                    "Hazuki Omoya"
+                ],
                 "sb": [],
-                "ad": ["Yong-Ce Tu", "Toshio Deguchi"],
-                "ka": ["Toshio Deguchi", "Tu Yong-Ce", "Naotoshi Shida", "Yuu Yoshiyama", "Manabu Imura", "Toranosuke Hori", "Fuyuko Iwata", "Ririka Shintani", "Yuuki Kitajima", "Moeka Araki", "Yuugen RB", "Wang Runze", "Eisaku Inoue", "Shouta Nakaguchi"],
-                "Art Director": ["Dhavee Morato"],
-                "Assistant Animation Director": ["Grand Guerilla"]
+                "ad": [
+                    "Yong-Ce Tu",
+                    "Toshio Deguchi"
+                ],
+                "ka": [
+                    "Toshio Deguchi",
+                    "Tu Yong-Ce",
+                    "Naotoshi Shida",
+                    "Yuu Yoshiyama",
+                    "Manabu Imura",
+                    "Toranosuke Hori",
+                    "Fuyuko Iwata",
+                    "Ririka Shintani",
+                    "Yuuki Kitajima",
+                    "Moeka Araki",
+                    "Yuugen RB",
+                    "Wang Runze",
+                    "Eisaku Inoue",
+                    "Shouta Nakaguchi"
+                ],
+                "Art Director": [
+                    "Dhavee Morato"
+                ],
+                "Assistant Animation Director": [
+                    "Grand Guerilla"
+                ]
             },
             "tags": [],
             "length": "3 minutes and 25 seconds",
@@ -333,11 +3101,31 @@
             "rating": 6.3,
             "votes": 9,
             "staff": {
-                "ed": ["Tatsuya Nagamine"],
+                "ed": [
+                    "Tatsuya Nagamine"
+                ],
                 "sb": [],
-                "ad": ["Kenji Yokoyama"],
-                "ka": ["Kenji Yokoyama", "Shigenori Taniguchi", "Nobuhiro Masuda", "Yoshikazu Tomita", "Yoichi Mitsui", "Yuuki Kitajima", "Tetsuya Saeki", "Takuyama Neru", "Noriko Ozeki", "Maki Hayashibara", "Eisaku Inoue", "Kazue Kinoshita", "Henry Thurlow"],
-                "Art Director": ["Tongnian Chen"]
+                "ad": [
+                    "Kenji Yokoyama"
+                ],
+                "ka": [
+                    "Kenji Yokoyama",
+                    "Shigenori Taniguchi",
+                    "Nobuhiro Masuda",
+                    "Yoshikazu Tomita",
+                    "Yoichi Mitsui",
+                    "Yuuki Kitajima",
+                    "Tetsuya Saeki",
+                    "Takuyama Neru",
+                    "Noriko Ozeki",
+                    "Maki Hayashibara",
+                    "Eisaku Inoue",
+                    "Kazue Kinoshita",
+                    "Henry Thurlow"
+                ],
+                "Art Director": [
+                    "Tongnian Chen"
+                ]
             },
             "tags": [],
             "length": "0 seconds",
@@ -347,11 +3135,39 @@
             "rating": 9.3,
             "votes": 21,
             "staff": {
-                "ed": ["Nozomu Shishido"],
+                "ed": [
+                    "Nozomu Shishido"
+                ],
                 "sb": [],
-                "ad": ["He Ziwei", "Keisuke Mori","Shuichi Ito", "Midori Matsuda"],
-                "ka": ["He Ziwei", "Wang Xuan", "Keisuke Mori", "Shin Kashiwaguma", "Fasto", "Shotarou Ban", "Makoto Muroi", "Leo Kawamoto", "Konishi Arisa ", "Eemi", "Masaya Hasegawa", "George/Jouji Yamada  ", "Kazooma", "Shirou Kamiya", "Mehdi Aouichaoui", "Az Echelle ", "Midori Matsuda"],
-                "Art Director": ["Guo Wei Huang", "Dino Santos"]
+                "ad": [
+                    "He Ziwei",
+                    "Keisuke Mori",
+                    "Shuichi Ito",
+                    "Midori Matsuda"
+                ],
+                "ka": [
+                    "He Ziwei",
+                    "Wang Xuan",
+                    "Keisuke Mori",
+                    "Shin Kashiwaguma",
+                    "Fasto",
+                    "Shotarou Ban",
+                    "Makoto Muroi",
+                    "Leo Kawamoto",
+                    "Konishi Arisa ",
+                    "Eemi",
+                    "Masaya Hasegawa",
+                    "George/Jouji Yamada  ",
+                    "Kazooma",
+                    "Shirou Kamiya",
+                    "Mehdi Aouichaoui",
+                    "Az Echelle ",
+                    "Midori Matsuda"
+                ],
+                "Art Director": [
+                    "Guo Wei Huang",
+                    "Dino Santos"
+                ]
             },
             "tags": [
                 "super production"
@@ -363,11 +3179,16 @@
             "rating": 7,
             "votes": 17,
             "staff": {
-                "ed": ["Yusuke Suzuki"],
+                "ed": [
+                    "Yusuke Suzuki"
+                ],
                 "sb": [],
-                "ad": ["Masayuki Takagi"],
-                "ka": [],
-                "Art Director": ["Momoko Fujikura"]
+                "ad": [
+                    "Masayuki Takagi"
+                ],
+                "Art Director": [
+                    "Momoko Fujikura"
+                ]
             },
             "tags": [],
             "length": "11 seconds",
@@ -377,12 +3198,50 @@
             "rating": 8,
             "votes": 11,
             "staff": {
-                "ed": ["Sho Matsui"],
-                "sb": ["Yasunori Koyama", "Sho Matsui", "Satoshi Ito"],
-                "ad": ["Hirotaka Ito", "Keita Saito"],
-                "ka": ["Eisaku Inoue", "Mayumi Funakoshi", "Mieko Saitou", "Tetsuya Saeki", "Yoshiyuki Ichikawa", "Takaaki Sonoda", "Hirotaka Ito", "Hiroto Saitou", "Hirao", "Reika Hoshino", "Yuichi Nakazawa", "Ken Satou", "Shunsuke Matsuo", "Naoko Iwata", "Masayuki Sato", "JDGE", "Chiemi Nakabayashi", "Nobuhiro Nagata", "Ayaka Iwai", "Takuma Kimura", "Fuuka Takeda"],
-                "Art Director": ["Midori Tanaka", "Nagisa Nishida"],
-                "Assistant Animation Director": ["Mamoru Yokota", "Junichi Hayama", "Masayuki Sato"]
+                "ed": [
+                    "Sho Matsui"
+                ],
+                "sb": [
+                    "Yasunori Koyama",
+                    "Sho Matsui",
+                    "Satoshi Ito"
+                ],
+                "ad": [
+                    "Hirotaka Ito",
+                    "Keita Saito"
+                ],
+                "ka": [
+                    "Eisaku Inoue",
+                    "Mayumi Funakoshi",
+                    "Mieko Saitou",
+                    "Tetsuya Saeki",
+                    "Yoshiyuki Ichikawa",
+                    "Takaaki Sonoda",
+                    "Hirotaka Ito",
+                    "Hiroto Saitou",
+                    "Hirao",
+                    "Reika Hoshino",
+                    "Yuichi Nakazawa",
+                    "Ken Satou",
+                    "Shunsuke Matsuo",
+                    "Naoko Iwata",
+                    "Masayuki Sato",
+                    "JDGE",
+                    "Chiemi Nakabayashi",
+                    "Nobuhiro Nagata",
+                    "Ayaka Iwai",
+                    "Takuma Kimura",
+                    "Fuuka Takeda"
+                ],
+                "Art Director": [
+                    "Midori Tanaka",
+                    "Nagisa Nishida"
+                ],
+                "Assistant Animation Director": [
+                    "Mamoru Yokota",
+                    "Junichi Hayama",
+                    "Masayuki Sato"
+                ]
             },
             "tags": [],
             "length": "33 seconds",
@@ -392,12 +3251,35 @@
             "rating": 7.2,
             "votes": 12,
             "staff": {
-                "ed": ["Katsumi Tokoro"],
+                "ed": [
+                    "Katsumi Tokoro"
+                ],
                 "sb": [],
-                "ad": ["Shigefumi Shingaki"],
-                "ka": ["Shigefumi Shingaki", "Eisaku Inoue", "Yuuki Kitajima", "Makoto Muroi", "anikari", "Takuyama Neru", "Takahiro Toyomasu", "Hisashi Samejima", "Ririka Shintani", "Tamao Takano", "Sadatoshi Matsuzaka", "Yoichi Mitsui", "Kazue Kinoshita", "Momofuji"],
-                "Art Director": ["Dhavee Morato"],
-                "Assistant Animation Director": ["Grand Guerilla"]
+                "ad": [
+                    "Shigefumi Shingaki"
+                ],
+                "ka": [
+                    "Shigefumi Shingaki",
+                    "Eisaku Inoue",
+                    "Yuuki Kitajima",
+                    "Makoto Muroi",
+                    "anikari",
+                    "Takuyama Neru",
+                    "Takahiro Toyomasu",
+                    "Hisashi Samejima",
+                    "Ririka Shintani",
+                    "Tamao Takano",
+                    "Sadatoshi Matsuzaka",
+                    "Yoichi Mitsui",
+                    "Kazue Kinoshita",
+                    "Momofuji"
+                ],
+                "Art Director": [
+                    "Dhavee Morato"
+                ],
+                "Assistant Animation Director": [
+                    "Grand Guerilla"
+                ]
             },
             "tags": [],
             "length": "14 seconds",
@@ -407,11 +3289,36 @@
             "rating": 7.8,
             "votes": 9,
             "staff": {
-                "ed": ["Sho Inuzuka"],
-                "sb": ["Sho Inuzuka", "Katsumi Ishizuka"],
-                "ad": ["Kazuya Hisada"],
-                "ka": ["Kazuya Hisada", "Henry Thurlow", "Naotoshi Shida", "Tatsuhiro Nagaki", "Zhiguang Liu", "Yuu Yoshiyama", "Sora Ishitsuka", "Takumi Ishikawa", "Eric Terlato", "Fuyuko Iwata", "Shun", "Chris", "Fasto", "Vincent Chansard", "Shotarou Ban"],
-                "Art Director": ["Tongnian Chen"]
+                "ed": [
+                    "Sho Inuzuka"
+                ],
+                "sb": [
+                    "Sho Inuzuka",
+                    "Katsumi Ishizuka"
+                ],
+                "ad": [
+                    "Kazuya Hisada"
+                ],
+                "ka": [
+                    "Kazuya Hisada",
+                    "Henry Thurlow",
+                    "Naotoshi Shida",
+                    "Tatsuhiro Nagaki",
+                    "Zhiguang Liu",
+                    "Yuu Yoshiyama",
+                    "Sora Ishitsuka",
+                    "Takumi Ishikawa",
+                    "Eric Terlato",
+                    "Fuyuko Iwata",
+                    "Shun",
+                    "Chris",
+                    "Fasto",
+                    "Vincent Chansard",
+                    "Shotarou Ban"
+                ],
+                "Art Director": [
+                    "Tongnian Chen"
+                ]
             },
             "tags": [
                 "super production"
@@ -423,11 +3330,37 @@
             "rating": 7.5,
             "votes": 6,
             "staff": {
-                "ed": ["Yasuhiro Tanabe"],
+                "ed": [
+                    "Yasuhiro Tanabe"
+                ],
                 "sb": [],
-                "ad": ["Masahiro Kitazaki"],
-                "ka": ["Masahiro Shimanuki", "Yi Pan", "Mehdi Auouichaoui ", "Levent Kotil", "Chenchao Tao", "Jonghyun Jungboix", "Cheb Vincent", "Ihabo Azzamo", "Chris", "Takaaki Sonoda", "Yoshito Miki", "Juny", "Kazue Kinoshita", "Jinghan Wu", "Andie Chu", "Satoshi Ichinokawa", "Rejean DuBois", "Jhyg Castillejos", "Rangel Abreau"],
-                "Art Director": ["Dino Santos"]
+                "ad": [
+                    "Masahiro Kitazaki"
+                ],
+                "ka": [
+                    "Masahiro Shimanuki",
+                    "Yi Pan",
+                    "Mehdi Auouichaoui ",
+                    "Levent Kotil",
+                    "Chenchao Tao",
+                    "Jonghyun Jungboix",
+                    "Cheb Vincent",
+                    "Ihabo Azzamo",
+                    "Chris",
+                    "Takaaki Sonoda",
+                    "Yoshito Miki",
+                    "Juny",
+                    "Kazue Kinoshita",
+                    "Jinghan Wu",
+                    "Andie Chu",
+                    "Satoshi Ichinokawa",
+                    "Rejean DuBois",
+                    "Jhyg Castillejos",
+                    "Rangel Abreau"
+                ],
+                "Art Director": [
+                    "Dino Santos"
+                ]
             },
             "tags": [],
             "length": "12 seconds",
@@ -437,11 +3370,34 @@
             "rating": 8.3,
             "votes": 13,
             "staff": {
-                "ed": ["Hyun Ieri"],
-                "sb": ["Masahiro Hosoda", "Satoshi Ito"],
-                "ad": ["Toshio Deguchi", "Grand Guerilla"],
-                "ka": ["Toshio Deguchi", "Naotoshi Shida", "Eisaku Inoue", "Tatsuhiro Nagaki", "Sadatoshi Matsuzaka", "Eemi", "Fuuma Tashiro", "Yoichi Mitsui", "Tatsuya Miki", "Haruhito Usui", "Jouji Yamada", "Shotarou Ban"],
-                "Art Director": ["Momoko Fujikura"]
+                "ed": [
+                    "Hyun Ieri"
+                ],
+                "sb": [
+                    "Masahiro Hosoda",
+                    "Satoshi Ito"
+                ],
+                "ad": [
+                    "Toshio Deguchi",
+                    "Grand Guerilla"
+                ],
+                "ka": [
+                    "Toshio Deguchi",
+                    "Naotoshi Shida",
+                    "Eisaku Inoue",
+                    "Tatsuhiro Nagaki",
+                    "Sadatoshi Matsuzaka",
+                    "Eemi",
+                    "Fuuma Tashiro",
+                    "Yoichi Mitsui",
+                    "Tatsuya Miki",
+                    "Haruhito Usui",
+                    "Jouji Yamada",
+                    "Shotarou Ban"
+                ],
+                "Art Director": [
+                    "Momoko Fujikura"
+                ]
             },
             "tags": [],
             "length": "3 minutes and 36 seconds",
@@ -451,11 +3407,19 @@
             "rating": 8.3,
             "votes": 10,
             "staff": {
-                "ed": ["Tasuku Shimaya"],
-                "sb": ["Tasuku Shimaya"],
-                "ad": ["Masahiro Shimanuki"],
-                "ka": [],
-                "Art Director": ["Natsuki Takeda", "Nagisa Nishida"]
+                "ed": [
+                    "Tasuku Shimaya"
+                ],
+                "sb": [
+                    "Tasuku Shimaya"
+                ],
+                "ad": [
+                    "Masahiro Shimanuki"
+                ],
+                "Art Director": [
+                    "Natsuki Takeda",
+                    "Nagisa Nishida"
+                ]
             },
             "tags": [],
             "length": "2 minutes and 48 seconds",
@@ -465,11 +3429,27 @@
             "rating": 6.2,
             "votes": 6,
             "staff": {
-                "ed": ["Hazuki Omoya"],
+                "ed": [
+                    "Hazuki Omoya"
+                ],
                 "sb": [],
-                "ad": ["Kenji Yokoyama"],
-                "ka": ["Kenji Yokoyama", "Eisaku Inoue", "Takuyama Neru", "Makoto Muroi", "Shigeki Sato", "Tetsuya Saeki", "Yuuki Kitajima", "Miyuu Ookubo", "chicoamariyo"],
-                "Art Director": ["Dhavee Morato"]
+                "ad": [
+                    "Kenji Yokoyama"
+                ],
+                "ka": [
+                    "Kenji Yokoyama",
+                    "Eisaku Inoue",
+                    "Takuyama Neru",
+                    "Makoto Muroi",
+                    "Shigeki Sato",
+                    "Tetsuya Saeki",
+                    "Yuuki Kitajima",
+                    "Miyuu Ookubo",
+                    "chicoamariyo"
+                ],
+                "Art Director": [
+                    "Dhavee Morato"
+                ]
             },
             "tags": [],
             "length": "48 seconds",
@@ -479,11 +3459,16 @@
             "rating": 7.8,
             "votes": 12,
             "staff": {
-                "ed": ["Toshinori Fukuzawa"],
+                "ed": [
+                    "Toshinori Fukuzawa"
+                ],
                 "sb": [],
-                "ad": ["Shuichi Ito"],
-                "ka": [],
-                "Art Director": ["Shoji Yonemura"]
+                "ad": [
+                    "Shuichi Ito"
+                ],
+                "Art Director": [
+                    "Shoji Yonemura"
+                ]
             },
             "tags": [],
             "length": "1 minutes and 30 seconds",
@@ -493,11 +3478,33 @@
             "rating": 4.3,
             "votes": 7,
             "staff": {
-                "ed": ["Kenichi Takeshita"],
-                "sb": ["Kenichi Takeshita", "Yutaka Nakashima"],
-                "ad": ["Masayuki Takagi"],
-                "ka": ["Masayuki Takagi", "Makoto Muroi", "Tomoyuki Kameda", "Shigenori Taniguchi", "Yuuki Kitajima", "Nobuhiro Masuda", "Takahiro Toyomasu", "Moeka Araki", "弐都参狸", "Kazunori Ozawa", "Inu", "KIECA"],
-                "Art Director": ["Dino Santos"]
+                "ed": [
+                    "Kenichi Takeshita"
+                ],
+                "sb": [
+                    "Kenichi Takeshita",
+                    "Yutaka Nakashima"
+                ],
+                "ad": [
+                    "Masayuki Takagi"
+                ],
+                "ka": [
+                    "Masayuki Takagi",
+                    "Makoto Muroi",
+                    "Tomoyuki Kameda",
+                    "Shigenori Taniguchi",
+                    "Yuuki Kitajima",
+                    "Nobuhiro Masuda",
+                    "Takahiro Toyomasu",
+                    "Moeka Araki",
+                    "弐都参狸",
+                    "Kazunori Ozawa",
+                    "Inu",
+                    "KIECA"
+                ],
+                "Art Director": [
+                    "Dino Santos"
+                ]
             },
             "tags": [],
             "length": "39 seconds",
@@ -507,13 +3514,49 @@
             "rating": 9.8,
             "votes": 36,
             "staff": {
-                "ed": ["Nozomu Shishido"],
+                "ed": [
+                    "Nozomu Shishido"
+                ],
                 "sb": [],
-                "ad": ["Hiroyasu Oda", "Keita Saito", "Hirotaka Ito"],
-                "ka": ["Shin Kashiwaguma", "Hiroto Saitou", "Akihiro Ota", "rui", "Takahiro Watabe ", "Kaito Tomioka", "Shunsuke Aoki", "Kohei Hirota", "Hayato Kurisaki", "Yuu Yoshiyama", "Anikari", "Yooto", "Fuyuko Iwata", "Ririka Fukaya", "kabukyuu", "momofuji ", "Toranosuke Hori", "Hiroyasu Oda", "Nobuhiro Masuda", "Hisashi Samejima", "Yoichi Mitsui", "Takuyama Neru", "Jack-Amin Ibrahim", "Aimman Ibrahim", "Iori Hisatake"],
-                "Art Director": ["Midori Tanaka"]
+                "ad": [
+                    "Hiroyasu Oda",
+                    "Keita Saito",
+                    "Hirotaka Ito"
+                ],
+                "ka": [
+                    "Shin Kashiwaguma",
+                    "Hiroto Saitou",
+                    "Akihiro Ota",
+                    "rui",
+                    "Takahiro Watabe ",
+                    "Kaito Tomioka",
+                    "Shunsuke Aoki",
+                    "Kohei Hirota",
+                    "Hayato Kurisaki",
+                    "Yuu Yoshiyama",
+                    "Anikari",
+                    "Yooto",
+                    "Fuyuko Iwata",
+                    "Ririka Fukaya",
+                    "kabukyuu",
+                    "momofuji ",
+                    "Toranosuke Hori",
+                    "Hiroyasu Oda",
+                    "Nobuhiro Masuda",
+                    "Hisashi Samejima",
+                    "Yoichi Mitsui",
+                    "Takuyama Neru",
+                    "Jack-Amin Ibrahim",
+                    "Aimman Ibrahim",
+                    "Iori Hisatake"
+                ],
+                "Art Director": [
+                    "Midori Tanaka"
+                ]
             },
-            "tags": ["super production"],
+            "tags": [
+                "super production"
+            ],
             "length": "8 minutes and 43 seconds",
             "posts": 21
         },
@@ -521,13 +3564,51 @@
             "rating": 8.8,
             "votes": 22,
             "staff": {
-                "ed": ["Matsumi"],
+                "ed": [
+                    "Matsumi"
+                ],
                 "sb": [],
-                "ad": ["Yong-Ce Tu", "He Ziwei", "Masayuki Sato"],
-                "ka": ["He Ziwei", "Naotoshi Shida", "Wang Xuan", "Wang Run-Zhe", "Jiaqi Jin", "Masayuki Sato", "Chris", "Levent Kotil", "Anno", "Lon", "Rayjii", "Ihabo Azzamo", "Moeka Araki", "Tu Yong-ce", "CD One / Ingram", "Jonghyun Jung-boix", "Yoshikazu Tomita", "Yi Pan", "Vincent Chansard", "Toranosuke Hori", "Ole Christian Loken", "docdoc", "Zhiguang Liu", "Kou Horio", "Sanguinii / Jordan Rear", "Mehdi Aouichaoui"],
-                "Art Director": ["Nagisa Nishida", "Natsuki Takeda"]
+                "ad": [
+                    "Yong-Ce Tu",
+                    "He Ziwei",
+                    "Masayuki Sato"
+                ],
+                "ka": [
+                    "He Ziwei",
+                    "Naotoshi Shida",
+                    "Wang Xuan",
+                    "Wang Run-Zhe",
+                    "Jiaqi Jin",
+                    "Masayuki Sato",
+                    "Chris",
+                    "Levent Kotil",
+                    "Anno",
+                    "Lon",
+                    "Rayjii",
+                    "Ihabo Azzamo",
+                    "Moeka Araki",
+                    "Tu Yong-ce",
+                    "CD One / Ingram",
+                    "Jonghyun Jung-boix",
+                    "Yoshikazu Tomita",
+                    "Yi Pan",
+                    "Vincent Chansard",
+                    "Toranosuke Hori",
+                    "Ole Christian Loken",
+                    "docdoc",
+                    "Zhiguang Liu",
+                    "Kou Horio",
+                    "Sanguinii / Jordan Rear",
+                    "Mehdi Aouichaoui"
+                ],
+                "Art Director": [
+                    "Nagisa Nishida",
+                    "Natsuki Takeda"
+                ]
             },
-            "tags": ["super production"],
+            "tags": [
+                "super production"
+            ],
             "length": "11 minutes and 26 seconds",
             "posts": 21
         },
@@ -535,11 +3616,29 @@
             "rating": 6.8,
             "votes": 10,
             "staff": {
-                "ed": ["Yusuke Suzuki"],
+                "ed": [
+                    "Yusuke Suzuki"
+                ],
                 "sb": [],
-                "ad": ["Shigefumi Shingaki"],
-                "ka": ["Yoshito Miki", "Noriko Ozeki", "Akemi Ueda", "Eisaku Inoue", "Shigefumi Shingaki", "Michitaka Yamamoto", "Tatsuhiro Nagaki", "Naoko Masui", "Wu Jinghan", "Night Berry", "Shinga Nakamura"],
-                "Art Director": ["Dhavee Morato"]
+                "ad": [
+                    "Shigefumi Shingaki"
+                ],
+                "ka": [
+                    "Yoshito Miki",
+                    "Noriko Ozeki",
+                    "Akemi Ueda",
+                    "Eisaku Inoue",
+                    "Shigefumi Shingaki",
+                    "Michitaka Yamamoto",
+                    "Tatsuhiro Nagaki",
+                    "Naoko Masui",
+                    "Wu Jinghan",
+                    "Night Berry",
+                    "Shinga Nakamura"
+                ],
+                "Art Director": [
+                    "Dhavee Morato"
+                ]
             },
             "tags": [],
             "length": "36 seconds",
@@ -549,11 +3648,26 @@
             "rating": 7.1,
             "votes": 20,
             "staff": {
-                "ed": ["Katsumi Tokoro"],
+                "ed": [
+                    "Katsumi Tokoro"
+                ],
                 "sb": [],
-                "ad": ["Kazuya Hisada"],
-                "ka": ["Kazuya Hisada", "Masaya Hasegawa", "Yuuki Kitajima", "Masahiro Kitazaki", "Tetsuya Saeki", "Namaita", "Eemi", "Jouji Yamada"],
-                "Art Director": ["Jiao Mou"]
+                "ad": [
+                    "Kazuya Hisada"
+                ],
+                "ka": [
+                    "Kazuya Hisada",
+                    "Masaya Hasegawa",
+                    "Yuuki Kitajima",
+                    "Masahiro Kitazaki",
+                    "Tetsuya Saeki",
+                    "Namaita",
+                    "Eemi",
+                    "Jouji Yamada"
+                ],
+                "Art Director": [
+                    "Jiao Mou"
+                ]
             },
             "tags": [],
             "length": "3 minutes and 01 seconds",
@@ -563,11 +3677,32 @@
             "rating": 8.2,
             "votes": 18,
             "staff": {
-                "ed": ["Sho Matsui"],
-                "sb": ["Sho Matsui", "Yasunori Koyama", "Sho Inuzuka"],
-                "ad": ["Masahiro Kitazaki"],
-                "ka": ["Masahiro Kitazaki", "Shinnosuke Tanaka", "Zhiguang Liu", "Yoshito Miki", "Yoichi Mitsui", "Kazue Kinoshita", "Tatsuhiro Nagaki", "Sadatoshi Matsuzaka", "hoodieboi", "Tatsuya Miki"],
-                "Art Director": ["Dino Santos"]
+                "ed": [
+                    "Sho Matsui"
+                ],
+                "sb": [
+                    "Sho Matsui",
+                    "Yasunori Koyama",
+                    "Sho Inuzuka"
+                ],
+                "ad": [
+                    "Masahiro Kitazaki"
+                ],
+                "ka": [
+                    "Masahiro Kitazaki",
+                    "Shinnosuke Tanaka",
+                    "Zhiguang Liu",
+                    "Yoshito Miki",
+                    "Yoichi Mitsui",
+                    "Kazue Kinoshita",
+                    "Tatsuhiro Nagaki",
+                    "Sadatoshi Matsuzaka",
+                    "hoodieboi",
+                    "Tatsuya Miki"
+                ],
+                "Art Director": [
+                    "Dino Santos"
+                ]
             },
             "tags": [],
             "length": "4 minutes and 13 seconds",
@@ -577,10 +3712,31 @@
             "rating": 7.1,
             "votes": 12,
             "staff": {
-                "ed": ["Hazuki Omoya"],
-                "sb": ["Hazuki Omoya"],
-                "ad": ["Grand Guerilla", "Toshio Deguchi"],
-                "ka": ["Toshio Deguchi", "Naotoshi Shida", "Shotarou Ban", "Anikari", "Fuyuko Iwata", "Miki Ogino", "Chiharu Akakura", "Yuuki Kitajima", "Tetsuya Saeki", "Makoto Muroi", "Miki Miura", "Kenji Kondou", "Takahiro Iida"]
+                "ed": [
+                    "Hazuki Omoya"
+                ],
+                "sb": [
+                    "Hazuki Omoya"
+                ],
+                "ad": [
+                    "Grand Guerilla",
+                    "Toshio Deguchi"
+                ],
+                "ka": [
+                    "Toshio Deguchi",
+                    "Naotoshi Shida",
+                    "Shotarou Ban",
+                    "Anikari",
+                    "Fuyuko Iwata",
+                    "Miki Ogino",
+                    "Chiharu Akakura",
+                    "Yuuki Kitajima",
+                    "Tetsuya Saeki",
+                    "Makoto Muroi",
+                    "Miki Miura",
+                    "Kenji Kondou",
+                    "Takahiro Iida"
+                ]
             },
             "tags": [],
             "length": "2 minutes and 59 seconds",
@@ -590,12 +3746,35 @@
             "rating": 7.9,
             "votes": 19,
             "staff": {
-                "ed": ["Hyun Ieri"],
-                "sb": ["Yasunori Koyama"],
-                "ad": ["Eisaku Inoue"],
-                "ka": ["Eisaku Inoue", "Hanao Iida", "Shigenori Taniguchi", "Tatsuhiro Nagaki", "Mieko Saitou", "Chenchao Tao", "Takaaki Sonoda", "Jayu", "Masahiro Kitazaki", "Nightberry", "Takahiro Toyomasu"],
-                "Art Director": ["Natsuki Takeda", "Nagisa Nishida"],
-                "Production Assistant": ["Ryoya Kaneko"]
+                "ed": [
+                    "Hyun Ieri"
+                ],
+                "sb": [
+                    "Yasunori Koyama"
+                ],
+                "ad": [
+                    "Eisaku Inoue"
+                ],
+                "ka": [
+                    "Eisaku Inoue",
+                    "Hanao Iida",
+                    "Shigenori Taniguchi",
+                    "Tatsuhiro Nagaki",
+                    "Mieko Saitou",
+                    "Chenchao Tao",
+                    "Takaaki Sonoda",
+                    "Jayu",
+                    "Masahiro Kitazaki",
+                    "Nightberry",
+                    "Takahiro Toyomasu"
+                ],
+                "Art Director": [
+                    "Natsuki Takeda",
+                    "Nagisa Nishida"
+                ],
+                "Production Assistant": [
+                    "Ryoya Kaneko"
+                ]
             },
             "tags": [],
             "length": "2 minutes and 26 seconds",
@@ -605,12 +3784,43 @@
             "rating": 7.8,
             "votes": 15,
             "staff": {
-                "ed": ["Tasuku Shimaya"],
-                "sb": ["Tasuku Shimaya"],
-                "ad": ["Kenji Yokoyama"],
-                "ka": ["Kenji Yokoyama", "Oussama Bouacheria", "Olivier Lescot", "Shane Dering", "Jeremie Becquier", "Julien Becquer", "Henry Thurlow", "Jose B. Rebolledo", "Satoshi Ichinokawa", "Kazue Kinoshita", "Stepan Nikitin ", "Jonghyun Jung-Boix", "Jhyg Castillejos", "Yuuta Haruna (?)", "456kanai", "Mehdi Bengoudifa", "Levent Kotil", "Alex Torres", "Arnaud Tribout", "Ronan"],
-                "Art Director": ["Dhavee Morato"],
-                "Production Assistant": ["Chafik"]
+                "ed": [
+                    "Tasuku Shimaya"
+                ],
+                "sb": [
+                    "Tasuku Shimaya"
+                ],
+                "ad": [
+                    "Kenji Yokoyama"
+                ],
+                "ka": [
+                    "Kenji Yokoyama",
+                    "Oussama Bouacheria",
+                    "Olivier Lescot",
+                    "Shane Dering",
+                    "Jeremie Becquier",
+                    "Julien Becquer",
+                    "Henry Thurlow",
+                    "Jose B. Rebolledo",
+                    "Satoshi Ichinokawa",
+                    "Kazue Kinoshita",
+                    "Stepan Nikitin ",
+                    "Jonghyun Jung-Boix",
+                    "Jhyg Castillejos",
+                    "Yuuta Haruna (?)",
+                    "456kanai",
+                    "Mehdi Bengoudifa",
+                    "Levent Kotil",
+                    "Alex Torres",
+                    "Arnaud Tribout",
+                    "Ronan"
+                ],
+                "Art Director": [
+                    "Dhavee Morato"
+                ],
+                "Production Assistant": [
+                    "Chafik"
+                ]
             },
             "tags": [],
             "length": "4 minutes and 22 seconds",
@@ -620,11 +3830,31 @@
             "rating": 5.9,
             "votes": 18,
             "staff": {
-                "ed": ["Atsuko Yamai"],
-                "sb": ["Tatsuya Nagamine"],
-                "ad": ["Masahiro Shimanuki"],
-                "ka": ["Masahiro Shimanuki", "Hiroto Saito", "Shin Kashiwaguma", "Nobuhiro Masuda", "Takako Takahashi", "Fuyuko Iwata", "Tomoyuki Kameda", "Manabu Imura", "Yuuki Kitajima", "Tatsuhiro Nagaki", "Yoshikazu Tomita"],
-                "Production Assistant": ["Emi Okawa"]
+                "ed": [
+                    "Atsuko Yamai"
+                ],
+                "sb": [
+                    "Tatsuya Nagamine"
+                ],
+                "ad": [
+                    "Masahiro Shimanuki"
+                ],
+                "ka": [
+                    "Masahiro Shimanuki",
+                    "Hiroto Saito",
+                    "Shin Kashiwaguma",
+                    "Nobuhiro Masuda",
+                    "Takako Takahashi",
+                    "Fuyuko Iwata",
+                    "Tomoyuki Kameda",
+                    "Manabu Imura",
+                    "Yuuki Kitajima",
+                    "Tatsuhiro Nagaki",
+                    "Yoshikazu Tomita"
+                ],
+                "Production Assistant": [
+                    "Emi Okawa"
+                ]
             },
             "tags": [],
             "length": "1 minutes and 50 seconds",
@@ -634,13 +3864,38 @@
             "rating": 8.6,
             "votes": 24,
             "staff": {
-                "ed": ["Nanami Michibata"],
-                "sb": ["Nanami Michibata", "Masahiro Hosoda"],
-                "ad": ["Masayuki Takagi"],
-                "ka": ["Masayuki Takagi", "Naotoshi Shida", "Masaya Hasegawa", "Shotarou Ban", "Jouji Yamada", "Vincent Chansard", "Tetsuya Saeki", "Takaaki Sonoda", "Eemi", "Miki Miura", "chicoamariyo (aimman Ibrahim)"],
-                "Art Director": ["Dino Santos"],
-                "Assistant Animation Director": ["Eisaku Inoue"],
-                "Production Assistant": ["Taisei Aoki"]
+                "ed": [
+                    "Nanami Michibata"
+                ],
+                "sb": [
+                    "Nanami Michibata",
+                    "Masahiro Hosoda"
+                ],
+                "ad": [
+                    "Masayuki Takagi"
+                ],
+                "ka": [
+                    "Masayuki Takagi",
+                    "Naotoshi Shida",
+                    "Masaya Hasegawa",
+                    "Shotarou Ban",
+                    "Jouji Yamada",
+                    "Vincent Chansard",
+                    "Tetsuya Saeki",
+                    "Takaaki Sonoda",
+                    "Eemi",
+                    "Miki Miura",
+                    "chicoamariyo (aimman Ibrahim)"
+                ],
+                "Art Director": [
+                    "Dino Santos"
+                ],
+                "Assistant Animation Director": [
+                    "Eisaku Inoue"
+                ],
+                "Production Assistant": [
+                    "Taisei Aoki"
+                ]
             },
             "tags": [],
             "length": "6 minutes and 54 seconds",
@@ -650,13 +3905,42 @@
             "rating": 5,
             "votes": 20,
             "staff": {
-                "ed": ["Katsumi Tokoro"],
-                "sb": ["Katsumi Tokoro"],
-                "ad": ["Shuichi Ito", "Nobuyuki Iwai"],
-                "ka": ["Toshio Deguchi", "Night Berry", "Shigenori Taniguchi", "Yoichi Mitsui", "Mieko Saitou", "Makoto Muroi", "Gen Saitou", "Shuichi Ito", "Yoshikazu Tomita", "Henry Thurlow", "Nobuyuki Iwai", "Naoko Masui", "Mikiro Shiba", "Levent Kotil", "Doctor Bean"],
-                "Art Director": ["Chen Yong-Nian"],
-                "Assistent Director": ["Oh Junghwa"],
-                "Production Assistant": ["Ayaka Shiraishi"]
+                "ed": [
+                    "Katsumi Tokoro"
+                ],
+                "sb": [
+                    "Katsumi Tokoro"
+                ],
+                "ad": [
+                    "Shuichi Ito",
+                    "Nobuyuki Iwai"
+                ],
+                "ka": [
+                    "Toshio Deguchi",
+                    "Night Berry",
+                    "Shigenori Taniguchi",
+                    "Yoichi Mitsui",
+                    "Mieko Saitou",
+                    "Makoto Muroi",
+                    "Gen Saitou",
+                    "Shuichi Ito",
+                    "Yoshikazu Tomita",
+                    "Henry Thurlow",
+                    "Nobuyuki Iwai",
+                    "Naoko Masui",
+                    "Mikiro Shiba",
+                    "Levent Kotil",
+                    "Doctor Bean"
+                ],
+                "Art Director": [
+                    "Chen Yong-Nian"
+                ],
+                "Assistent Director": [
+                    "Oh Junghwa"
+                ],
+                "Production Assistant": [
+                    "Ayaka Shiraishi"
+                ]
             },
             "tags": [],
             "length": "38 seconds",
@@ -666,13 +3950,45 @@
             "rating": 8,
             "votes": 19,
             "staff": {
-                "ed": ["Toshinori Fukuzawa"],
-                "sb": ["Toshinori Fukuzawa"],
-                "ad": ["Hirotaka Ito", "Masami Mori", "Keita Saito"],
-                "ka": ["Makoto Muroi", "Yukiya Ataka", "Yuu Yoshiyama", "Toranosuke Hori", "Kabukyuu", "J.X.L.", "Yoshikazu Tomita", "Yuuki Kitajima", "Hirotaka Ito", "Akemi Ueda", "Takuyama Neru", "Sadatoshi Matsuzaka", "SCHEIBER Ines", "Kazunori Ozawa", "Tatsuhiro Nagaki", "Yoshito Miki"],
-                "Assistent Director": ["Hiroshi Higashi"],
-                "Assistant Animation Director": ["Kenji Yokoyama", "Takuyama Neru"],
-                "Production Assistant": ["Hiroya Wada"]
+                "ed": [
+                    "Toshinori Fukuzawa"
+                ],
+                "sb": [
+                    "Toshinori Fukuzawa"
+                ],
+                "ad": [
+                    "Hirotaka Ito",
+                    "Masami Mori",
+                    "Keita Saito"
+                ],
+                "ka": [
+                    "Makoto Muroi",
+                    "Yukiya Ataka",
+                    "Yuu Yoshiyama",
+                    "Toranosuke Hori",
+                    "Kabukyuu",
+                    "J.X.L.",
+                    "Yoshikazu Tomita",
+                    "Yuuki Kitajima",
+                    "Hirotaka Ito",
+                    "Akemi Ueda",
+                    "Takuyama Neru",
+                    "Sadatoshi Matsuzaka",
+                    "SCHEIBER Ines",
+                    "Kazunori Ozawa",
+                    "Tatsuhiro Nagaki",
+                    "Yoshito Miki"
+                ],
+                "Assistent Director": [
+                    "Hiroshi Higashi"
+                ],
+                "Assistant Animation Director": [
+                    "Kenji Yokoyama",
+                    "Takuyama Neru"
+                ],
+                "Production Assistant": [
+                    "Hiroya Wada"
+                ]
             },
             "tags": [],
             "length": "2 minutes and 55 seconds",
@@ -682,13 +3998,44 @@
             "rating": 9.7,
             "votes": 60,
             "staff": {
-                "ed": ["Wataru Matsumi"],
-                "sb": ["Wataru Matsumi"],
-                "ad": ["Yong-Ce Tu", "He Ziwei"],
-                "ka": ["Yong-Ce Tu", "He Ziwei", "Akihiro Ota", "Masayuki Sato", "Zhiguang Liu", "Masaya Hasegawa", "Wang Run-Zhe", "Wang Xuan", "Wang Yi", "Jiaqi Jin", "Yoshikazu Tomitaa", "Mylene Cominotti", "Vincent Chansard", "CD One", "Takaaki Sonoda", "Tsukimi", "Yuuki Satou (Silver Link)", "Angus Pepper", "Mehdi Auoichaoui"],
-                "Production Assistant": ["Hajime Monden"]
+                "ed": [
+                    "Wataru Matsumi"
+                ],
+                "sb": [
+                    "Wataru Matsumi"
+                ],
+                "ad": [
+                    "Yong-Ce Tu",
+                    "He Ziwei"
+                ],
+                "ka": [
+                    "Yong-Ce Tu",
+                    "He Ziwei",
+                    "Akihiro Ota",
+                    "Masayuki Sato",
+                    "Zhiguang Liu",
+                    "Masaya Hasegawa",
+                    "Wang Run-Zhe",
+                    "Wang Xuan",
+                    "Wang Yi",
+                    "Jiaqi Jin",
+                    "Yoshikazu Tomitaa",
+                    "Mylene Cominotti",
+                    "Vincent Chansard",
+                    "CD One",
+                    "Takaaki Sonoda",
+                    "Tsukimi",
+                    "Yuuki Satou (Silver Link)",
+                    "Angus Pepper",
+                    "Mehdi Auoichaoui"
+                ],
+                "Production Assistant": [
+                    "Hajime Monden"
+                ]
             },
-            "tags": ["super production"],
+            "tags": [
+                "super production"
+            ],
             "length": "13 minutes and 20 seconds",
             "posts": 15
         },
@@ -696,17 +4043,113 @@
             "rating": 7.9,
             "votes": 24,
             "staff": {
-                "ed": ["Yusuke Suzuki"],
-                "sb": ["Yusuke Suzuki"],
-                "ad": ["Shigefumi Shingaki", "Toshio Deguchi"],
-                "ka": ["Toshio Deguchi", "Yoshihito Miki", "Elena Volk", "José B. Rebolledo", "Li Cree", "Olivier Lescot", "Alex Torres", "Jin Ivan", "Jersey Turkey", "Shigefumi Shingaki", "Hideo Nakamura", "Mehdi Bengoudifa", "456kanai", "Lzyboost", "Carlo Toselli", "Stepan Nikitin", "Juny", "Alexis Giraud", "Alphonse Jubert", "Sailor Yon", "Isaac Bouanga", "Yuuko Furstos", "Shunsuke Matsuo", "Ronan", "Mieko Saitou"],
-                "Assistent Director": ["Sho Matsui"],
-                "Art Director": ["Taka Mu"],
-                "Production Assistant": ["Chafik"]
+                "ed": [
+                    "Yusuke Suzuki"
+                ],
+                "sb": [
+                    "Yusuke Suzuki"
+                ],
+                "ad": [
+                    "Shigefumi Shingaki",
+                    "Toshio Deguchi"
+                ],
+                "ka": [
+                    "Toshio Deguchi",
+                    "Yoshihito Miki",
+                    "Elena Volk",
+                    "José B. Rebolledo",
+                    "Li Cree",
+                    "Olivier Lescot",
+                    "Alex Torres",
+                    "Jin Ivan",
+                    "Jersey Turkey",
+                    "Shigefumi Shingaki",
+                    "Hideo Nakamura",
+                    "Mehdi Bengoudifa",
+                    "456kanai",
+                    "Lzyboost",
+                    "Carlo Toselli",
+                    "Stepan Nikitin",
+                    "Juny",
+                    "Alexis Giraud",
+                    "Alphonse Jubert",
+                    "Sailor Yon",
+                    "Isaac Bouanga",
+                    "Yuuko Furstos",
+                    "Shunsuke Matsuo",
+                    "Ronan",
+                    "Mieko Saitou"
+                ],
+                "Assistent Director": [
+                    "Sho Matsui"
+                ],
+                "Art Director": [
+                    "Taka Mu"
+                ],
+                "Production Assistant": [
+                    "Chafik"
+                ]
             },
             "tags": [],
             "length": "",
             "posts": null
+        },
+        "1114": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [
+                    "Hazuki Omoya"
+                ],
+                "sb": [
+                    "Katsumi Ishizuka"
+                ],
+                "ad": [
+                    "Kazuya Hisada",
+                    "Sota Shigetsugu"
+                ],
+                "ka": [
+                    "Kazuya Hisada",
+                    "Nobuhiro Masuda",
+                    "Moeka Araki",
+                    "roadsign",
+                    "Naotoshi Shida",
+                    "Yuuki Kitajima",
+                    "Hiroyasu Oda",
+                    "大",
+                    "Anikari",
+                    "Tomoyuki Takahashi",
+                    "Vincent Chansard",
+                    "Honehone",
+                    "Chris",
+                    "Miyuu Ookubo",
+                    "Yosu",
+                    "Yuuta Haruna",
+                    "Anno",
+                    "Chihara Akakura",
+                    "Christian Vilarreal",
+                    "Kawamitsu Sora",
+                    "Lon"
+                ],
+                "Art Director": [
+                    "Dino Santos"
+                ],
+                "Production Assistant": [
+                    "Ryoya Kaneko"
+                ]
+            },
+            "tags": [],
+            "length": "",
+            "posts": null
+        }
+    },
+
+    "staff": {
+        "Megumi Ishitani": {
+            "holdings": {
+                "#1015": "Director / Storyboarder"
+            },
+            "lastWork": "Opening 26"
         }
     }
 }
