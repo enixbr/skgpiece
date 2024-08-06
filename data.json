@@ -4643,6 +4643,58 @@
                 "Opening 26": "Director"
             },
             "lastWork": "Opening 26"
+        },
+
+        "Nanami Michibata": {
+            "role": "Director / Storyboarder",
+            "picture": "https://files.catbox.moe/owrzcu.jpg",
+            "holdings": {
+                "858": "Assistant Director",
+                "862": "Assistant Director",
+                "866": "Assistant Director",
+                "871": "Assistant Director",
+                "876": "Assistant Director",
+                "882": "Assistant Director",
+                "887": "Assistant Director",
+                "892": "Assistant Director",
+                "897": "Assistant Director",
+                "902": "Assistant Director",
+                "907": "Assistant Director",
+                "912": "Assistant Director",
+                "918": "Assistant Director",
+                "925": "Director",
+                "931": "Assistant Director",
+                "937": "Assistant Director",
+                "942": "Assistant Director",
+                "946": "Assistant Director",
+                "956": "Director",
+                "962": "Assistant Director",
+                "967": "Assistant Director",
+                "971": "Assistant Director",
+                "975": "Assistant Director",
+                "983": "Director",
+                "989": "Assistant Director",
+                "993": "Assistant Director",
+                "997": "Assistant Director",
+                "1003": "Director / Storyboarder",
+                "1017": "Director / Storyboarder",
+                "1038": "Director / Storyboarder",
+                "1057": "Director / Storyboarder",
+                "1010": "Assistant Director",
+                "1021": "Assistant Director",
+                "1023": "Assistant Director",
+                "1074": "Director",
+                "1088": "Assistant Director",
+                "1092": "Assistant Director",
+                "1098": "Assistant Director",
+                "1109": "Director / Storyboarder",
+                "OP1000": "Assistant Unit Director",
+                "Opening 24": "Assistant Unit Director",
+                "Opening 26": "Assistant Unit Director",
+                "Ending 19": "Unit Director / Director / Storyboarder",
+                "RED": "Assistant Unit Director"
+            },
+            "lastWork": "1109"
         }
     }
 }
