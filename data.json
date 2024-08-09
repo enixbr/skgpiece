@@ -1,51 +1,8 @@
 {
     "ranking": {
-      "1015": 10,
-      "1069": 7.3,
-      "1070": 6.8,
-      "1071": 9.3,
-      "1072": 9.4,
-      "1073": 4.3,
-      "1074": 9.6,
-      "1075": 9.1,
-      "1076": 8.8,
-      "1077": 7.4,
-      "1078": 8.4,
-      "1079": 8.5,
-      "1080": 9.2,
-      "1081": 9,
-      "1082": 6.3,
-      "1083": 5.2,
-      "1084": null,
-      "1085": 8.1,
-      "1086": 8.4,
-      "1087": 7,
-      "1088": 6.3,
-      "1089": 9.3,
-      "1090": 7,
-      "1091": 8,
-      "1092": 7.2,
-      "1093": 7.8,
-      "1094": 7.5,
-      "1095": 8.3,
-      "1096": 8.3,
-      "1097": 6.2,
-      "1098": 7.8,
-      "1099": 4.3,
-      "1100": 9.8,
-      "1101": 8.8,
-      "1102": 6.8,
-      "1103": 7.1,
-      "1104": 8.2,
-      "1105": 7.1,
-      "1106": 7.9,
-      "1107": 7.8,
-      "1108": 5.9,
-      "1109": 8.6,
-      "1110": 5,
-      "1111": 8,
-      "1112": 9.7,
-      "1113": 7.9
+        "sources": ["1015", "1069", "1070", "1071", "1072", "1073", "1074", "1075", "1076", "1077", "1078", "1079", "1080", "1081", "1082", "1083", "1084", "1085", "1086", "1087", "1088", "1089", "1090", "1091", "1092", "1093", "1094", "1095", "1096", "1097", "1098", "1099", "1100", "1101", "1102", "1103", "1104", "1105", "1106", "1107", "1108", "1109", "1110", "1111", "1112", "1113"],
+        "ratings": [10, 7.3, 6.8, 9.3, 9.4, 4.3, 9.6, 9.1, 8.8, 7.4, 8.4, 8.5, 9.2, 9, 6.3, 5.2, null, 8.1, 8.4, 7, 6.3, 9.3, 7, 8, 7.2, 7.8, 7.5, 8.3, 8.3, 6.2, 7.8, 4.3, 9.8, 8.8, 6.8, 7.1, 8.2, 7.1, 7.9, 7.8, 5.9, 8.6, 5, 8, 9.7, 7.9],
+        "votes": [18, 32, 49, 33, 27, 36, 32, 30, 14, 14, 12, 21, 20, 11, 14, null, 14, 9, 10, 9, 21, 17, 11, 9, 9, 6, 13, 10, 6, 12, 7, 36, 22, 10, 20, 18, 12, 19, 15, 18, 24, 20, 19, 60, 24, 34]
     },
     "episodes": {
       "892": {
@@ -7391,7 +7348,8 @@
           ]
         },
         "tags": [
-          "super production"
+          "super production",
+          "debuts"
         ],
         "length": "10 minutes and 06 seconds",
         "posts": 15,
@@ -7466,7 +7424,7 @@
             "Masayuki Sato"
           ]
         },
-        "tags": [],
+        "tags": ["debuts"],
         "length": "33 seconds",
         "posts": 2,
         "picture": ""
@@ -7505,7 +7463,7 @@
             "Grand Guerilla"
           ]
         },
-        "tags": [],
+        "tags": ["debuts"],
         "length": "14 seconds",
         "posts": 1,
         "picture": ""
@@ -7588,7 +7546,7 @@
             "Dino Santos"
           ]
         },
-        "tags": [],
+        "tags": ["debuts"],
         "length": "12 seconds",
         "posts": 1,
         "picture": ""
@@ -7700,7 +7658,7 @@
             "Shoji Yonemura"
           ]
         },
-        "tags": [],
+        "tags": ["debuts"],
         "length": "1 minutes and 30 seconds",
         "posts": 3,
         "picture": ""
@@ -7787,7 +7745,8 @@
           ]
         },
         "tags": [
-          "super production"
+          "super production",
+          "debuts"
         ],
         "length": "8 minutes and 43 seconds",
         "posts": 21,
@@ -7840,7 +7799,8 @@
           ]
         },
         "tags": [
-          "super production"
+          "super production",
+          "debuts"
         ],
         "length": "11 minutes and 26 seconds",
         "posts": 21,
@@ -7904,7 +7864,7 @@
             "Jiao Mou"
           ]
         },
-        "tags": [],
+        "tags": ["debuts"],
         "length": "3 minutes and 01 seconds",
         "posts": 4,
         "picture": "https://files.catbox.moe/6zyye1.png"
@@ -7940,7 +7900,7 @@
             "Dino Santos"
           ]
         },
-        "tags": [],
+        "tags": ["debuts"],
         "length": "4 minutes and 13 seconds",
         "posts": 5,
         "picture": "https://files.catbox.moe/crx3h6.png"
@@ -7975,7 +7935,7 @@
             "Takahiro Iida"
           ]
         },
-        "tags": [],
+        "tags": ["debuts"],
         "length": "2 minutes and 59 seconds",
         "posts": 5,
         "picture": "https://files.catbox.moe/rzi82q.png"
@@ -8014,7 +7974,7 @@
             "Ryoya Kaneko"
           ]
         },
-        "tags": [],
+        "tags": ["debuts"],
         "length": "2 minutes and 26 seconds",
         "posts": 2,
         "picture": "https://files.catbox.moe/2j0xoa.png"
@@ -8061,7 +8021,7 @@
             "Chafik"
           ]
         },
-        "tags": [],
+        "tags": ["debuts"],
         "length": "4 minutes and 22 seconds",
         "posts": 4,
         "picture": "https://files.catbox.moe/9fbl6w.png"
@@ -8233,7 +8193,9 @@
             "Hiroya Wada"
           ]
         },
-        "tags": [],
+        "tags": [
+            "debuts"
+        ],
         "length": "2 minutes and 55 seconds",
         "posts": 7,
         "picture": "https://files.catbox.moe/x7dbh8.png"
@@ -8278,7 +8240,8 @@
           ]
         },
         "tags": [
-          "super production"
+          "super production",
+          "debuts"
         ],
         "length": "13 minutes and 20 seconds",
         "posts": 15,
@@ -8335,7 +8298,9 @@
             "Chafik"
           ]
         },
-        "tags": [],
+        "tags": [
+            "debuts"
+        ],
         "length": "1 minutes and 40 seconds",
         "posts": 3,
         "picture": "https://files.catbox.moe/qk3c2m.png"
@@ -8388,7 +8353,8 @@
           ]
         },
         "tags": [
-          "super production"
+          "super production",
+          "debuts"
         ],
         "length": "5 minutes and 12 seconds",
         "posts": 4,
