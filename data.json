@@ -9035,8 +9035,8 @@
             "date": 1722816540
         },
         "1115": {
-            "rating": null,
-            "votes": null,
+            "rating": 9.42,
+            "votes": 26,
             "staff": {
                 "ed": [
                     "Nozomu Shishido"
@@ -9103,6 +9103,50 @@
             "posts": 4,
             "picture": "https://files.catbox.moe/gx65ub.png",
             "date": 1723334940
+        },
+        "1116": {
+            "rating": null,
+            "votes": null,
+            "staff": {
+                "ed": [
+                    "Hyun Ieri"
+                ],
+                "sb": [
+                    "Hyun Ieri",
+                    "Satoshi Ito"
+                ],
+                "ad": [
+                    "Eisaku Inoue"
+                ],
+                "ka": [
+                    "Eisaku Inoue",
+                    "Tatsuhiro Nagaki",
+                    "Yoichi Mitsui",
+                    "Tatsuya Miki",
+                    "Nightberry",
+                    "Shigeki Sato",
+                    "Shigenori Taniguchi",
+                    "Chenchao Tao",
+                    "Mieko Saito",
+                    "hirao",
+                    "Peng Qin",
+                    "Ihabo Azzamo"
+                ],
+                "Art Director": [
+                    "Natsuki Takeda",
+                    "Yuko Doi",
+                    "Eiji Hamano"
+                ],
+                "Production Assistant": [
+                    "Ayaka Shiraishi",
+                    "Mion Futami"
+                ]
+            },
+            "tags": [],
+            "length": "0 seconds",
+            "posts": 0,
+            "picture": "https://files.catbox.moe/gx65ub.png",
+            "date": 1723941000
         }
     },
     "specials": {
